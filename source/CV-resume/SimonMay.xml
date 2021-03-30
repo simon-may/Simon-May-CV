@@ -1,0 +1,63 @@
+heading
+
+<section>
+	preamble - contact info
+
+</section>
+
+<section>
+	overview - summary
+		<include href="Simon-May-summary.xml" />
+
+</section>
+
+<section>
+	Key Skills and Business Capabilities
+		<include href="Simon-May-key-skills.xml" />
+
+</section>
+
+<section>
+	Career to date
+
+		<include href="Simon-May-projects.xml" />
+
+</section>
+
+<section>
+	Early career details include
+		<para>
+			Pre-Apr 2010
+			Various roles in the field of technical software delivery
+			Various clients
+		</para>
+
+</section>
+
+<section>
+	Key Technical Skills and Capabilities
+		<include href="Simon-May-key-technical.xml" />
+
+</section>
+
+<section>
+	Professional Accreditation
+
+		<include href="Simon-May-accreditation.xml" />
+
+</section>
+
+<section>
+	Academic Qualifications
+
+		<include href="Simon-May-qualification.xml" />
+
+</section>
+
+<section>
+	Additional Information
+
+		<include href="Simon-May-additional.xml" />
+
+</section>
+
