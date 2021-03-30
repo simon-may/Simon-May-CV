@@ -1,0 +1,216 @@
+﻿<Employment>AAH Meditel
+
+	<Date>
+
+		<Type>Start date
+		<Day>
+		<Month>September
+		<Year>1994
+
+	</Date>
+
+	<Date>
+
+		<Type>End date
+		<Day>
+		<Month>February
+		<Year>1995
+
+	</Date>
+
+	<Site>Bromsgrove, Worcestershire
+
+	<Role>Software Developer
+
+	<Summary>
+
+		<001>
+			<P>Meditel is a division of the AAH group who develop software for the medical market.  The section that I worked with for this six month contract were responsible for developing software for GP fund-holders.
+			</P>
+		</001>
+
+		<002>
+			<P>At Meditel I was involved in the analysis, design, and implementation of an SCO UNIX based commercial system for fund-holding GPs.
+			</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</002>
+
+	</Summary>
+
+	<Benefit>Technical Responsibility
+
+		<P>My technical responsibility at Meditel included analysis, design and implementation of system running on UNIX, and written in 'C', according to specifications laid down by the Department of Health.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Supervisory Responsibility
+
+		<P>During the course of the six month contract, my responsibilities often extended to those of team leader.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Personal Achievements
+
+		<P>Personal achievements during this time included successful translation of complex Department of Health specifications into a working system, ensuring harmonious working relationships with a diverse group of individuals, and delivering success under extremely tight time constraints.
+		</P>
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Skills Acquired
+
+		<P>During my time at Meditel, I capitalised on my existing knowledge and skills, and furthered my skills with UNIX and 'C', extended my knowledge of SQL, and embedded SQL, and gained much more experience in the use of the UNIX SCCS utility, debugging techniques, and the UNIX 'make' utility.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Detailed_Description>
+
+		<001>
+
+			<P>At Meditel I was involved in the analysis, design, and implementation of an SCO UNIX based commercial system for fund-holding GPs. The system was designed according to published DoH specifications, and was responsible for clinical and financial data. The system was developed on PCs running SCO UNIX to tie in with computer systems already being used in GP surgeries. The system was a database system based on an Informix relational database. The design for the system utilised my Yourdon methodology knowledge heavily as there was no in-house knowledge of the methodology when I joined Meditel.  The implementation of the system was carried out using the 'C' programming language. As the development team was a small one, my responsibilities often extended to those of team-leader.
+			</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</001>
+
+		<002>
+
+			<P>At Meditel I was involved in the analysis, design, and implementation of an SCO UNIX based commercial system for fund-holding GPs.  The system was designed according to published Department of Health (DoH) specifications, and was responsible for clinical and financial data.  The system was developed on PCs running SCO UNIX to tie in with computer systems already being used in GP surgeries.  The system was a database system based on an Informix relational database.  The design for the system utilised my Yourdon methodology knowledge heavily as there was no in-house knowledge of the methodology when I joined Meditel.  The implementation of the system was carried out using the 'C' programming language.  As the development team was a small one, my responsibilities often extended to those of team-leader.
+			</P>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>January
+					<Year>2000
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>February
+					<Year>2000
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</002>
+
+		<003>
+
+			<P>At Meditel I was involved in the analysis, design, and implementation of an SCO UNIX based commercial system for fund-holding GPs.
+			</P>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>June
+					<Year>2002
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>July
+					<Year>2002
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>September
+					<Year>2003
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>September
+					<Year>2006
+				</Date>
+			</Used>
+
+		</003>
+
+	</Detailed_Description>
+
+</Employment>

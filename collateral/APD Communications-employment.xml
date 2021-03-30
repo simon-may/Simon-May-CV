@@ -1,0 +1,97 @@
+﻿<Employment>APD Communications
+
+	<Engagement>001
+		<Date>
+
+			<Type>Start date
+			<Day>
+			<Month>July
+			<Year>2007
+
+		</Date>
+
+		<Date>
+
+			<Type>End date
+			<Day>
+			<Month>February
+			<Year>2008
+
+		</Date>
+
+		<Site>Newlands Centre, Inglemire Lane, HULL
+
+	</Engagement>001
+
+	<Role>
+
+	<Summary>
+
+		<001>
+			<P>I worked with APD Communications as an embedded software development engineer for a period of seven months covering three different contracts.
+			</P>
+
+			<P>Whilst at APD I wrote software for the Infineon XC16x family of microcontrollers and associated hardware devices (flash ROM modules, etc.), to specification.
+			</P>
+		</001>
+
+	</Summary>
+
+	<Benefit>Technical Responsibility
+
+		<P>Whilst at APD Communications, my area of technical responsibility encompassed developing software for the Infineon XC16x family of microcontrollers as well as associated hardware devices – flash ROM module, EEPROM module, and an IO extender module.  I wrote code to in-house coding standards and used in-house software version control systems.
+		</P>
+
+	</Benefit>
+
+	<Benefit>Supervisory Responsibility
+
+		<P>I had no supervisory responsibility whilst at APD Communications
+		</P>
+
+	</Benefit>
+
+	<Benefit>Personal Achievements
+
+		<P>On a personal level, my time at APD gave me 
+		</P>
+
+		<P>Contract renewal
+		</P>
+
+		<P>Returned to skills last used 20 years ago
+		</P>
+
+	</Benefit>
+
+	<Benefit>Skills Acquired
+
+		<P>Furthering of existing skills
+		</P>
+
+		<P>Software development
+		</P>
+
+		<P>Source code control
+		</P>
+
+		<P>Microcontrollers
+		</P>
+
+		<P>Embedded software development
+		</P>
+
+		<P>Working with flash ROM
+		</P>
+
+	</Benefit>
+
+	<Detailed_Description>
+
+		<001>
+
+		</001>
+
+	</Detailed_Description>
+
+</Employment>

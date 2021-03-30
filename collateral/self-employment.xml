@@ -1,0 +1,227 @@
+﻿<Employment>self employed
+
+	<Date>
+
+		<Type>Start date
+		<Day>
+		<Month>December
+		<Year>2001
+
+	</Date>
+
+	<Date>
+
+		<Type>End date
+		<Day>
+		<Month>
+		<Year>
+
+	</Date>
+
+	<Site>Bedford
+	<Site>Northampton
+
+	<Role>IT Consultant
+
+	<Summary>
+
+		<001>
+		</001>
+
+		<002>
+			<P>Acting as a consultant, I worked - and am working - on a variety of projects for small to medium sized business clients looking to maximise their IT investment, and specifically looking to move into the e-commerce arena.
+			</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</002>
+
+	</Summary>
+
+	<Benefit>Technical Responsibility
+
+		<P>My technical responsibilities include all aspects of providing IT systems to clients which encompasses technical and business architectures, as well as system design and implementation.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Supervisory Responsibility
+
+		<P>I have no internal supervisory responsibility at Rathlin Software - all my supervisory responsibilities are on behalf of my clients in managing people that they employ, either directly, or on a sub-contracted basis.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Personal Achievements
+
+		<P>On a personal level, this work has given me the opportunity to develop the skills required to run a small business, to work successfully alone, and to market solutions to clients.
+		</P>
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Skills Acquired
+
+		<P>In addition to my building on my existing skills, I have worked extensively with 'web' technologies, specifically HTML, CSS, Java, and JavaScript.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Detailed_Description>
+
+		<001>
+
+			<P>Working on my own behalf, with clients, providing consultancy on their IT systems, specifically to do with UNIX systems, and e-commerce solutions.  This also involves liasing with - and managing - other companies on behalf of my clients.
+			</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</001>
+
+		<002>
+
+			<P>Acting as a consultant, I worked - and am working - on a variety of projects for small to medium sized business clients looking to maximise their IT investment, and specifically looking to move into the e-commerce arena.
+			</P>
+
+			<Used>Curriculum Vitae
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>July
+					<Year>2002
+				</Date>
+			</Used>
+
+		</002>
+
+		<003>
+
+			<P>Acting as a consultant, I worked - and am working - on a variety of projects for small to medium sized business clients looking to maximise their IT investment, and specifically looking to move into the e-commerce arena.
+			</P>
+
+			<P>Feb 2002 to present
+			</P>
+
+			<P>Consultancy
+			</P>
+
+			<P>This has been an on-going association with a client who has asked me to provide his company with technology input in strategic decision making.  This has included helping the client specify and design an internet strategy, as well as managing the third party supplier.
+			</P>
+
+			<P>May 2002 to Jul 2002 and Dec 2002 to Mar 2003
+			</P>
+
+			<P>Protection
+			</P>
+
+			<P>This piece of work was to help a client ensure protection of their internal IT systems.  This included specifying fire walls and routers, as well as managing the third party suppliers and installers.  Further audit work was carried out, and new recommendations made on the back of the audit.
+			</P>
+
+			<P>Jun 2002 to Jun 2003
+			</P>
+
+			<P>Internet / Intranet / Extranet Strategy
+			</P>
+
+			<P>This substantial piece of work involved working with a client in specifying and implementing an overall strategy to allow the client to work more effectively with their suppliers and customers.
+			</P>
+
+			<P>Mar 2002 to May 2002
+			</P>
+
+			<P>Web-site consultancy
+			</P>
+
+			<P>This was a small piece of work to design a web presence and to advise on implementing the presence.
+			</P>
+
+			<P>Jan 2002 to Jul 2002, and on-going
+			</P>
+
+			<P>CRM project
+			</P>
+
+			<P>This started as work with a client to implement a customer relationship management project, to help the client understand a customer’s value to my client’s business.  This evolved into a much wider ranging business process engineering piece of work helping my client identify ineffective parts of the business, and working with my client to change the business processes to increase efficiency.
+			</P>
+
+			<Used>Curriculum Vitae
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>September
+					<Year>2003
+				</Date>
+			</Used>
+
+		</003>
+
+		<004>
+
+			<P>Towards the end of 2001, I found myself in a position where I had sufficient money, and no direct dependants, to allow me to set up business on my own behalf working directly for a variety of clients. I have worked primarily as a consultant for a variety of small to medium sized business clients all of whom have been looking to technology to either allow them to expand their capacity, or to allow them to reduce their costs.
+			</P>
+
+			<P>During this time I have been involved with private businesses and voluntary sector enterprises; with the retail sector and with the "professions"; and with technology based solutions, as well as with general business change solutions.
+			</P>
+
+			<Used>Curriculum Vitae
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>September
+					<Year>2006
+				</Date>
+			</Used>
+
+		</004>
+
+	</Detailed_Description>
+
+</Employment>

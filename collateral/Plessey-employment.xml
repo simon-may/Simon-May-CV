@@ -1,0 +1,219 @@
+﻿<Employment>Plessey Naval Systems
+
+	<Date>
+
+		<Type>Start date
+		<Day>
+		<Month>January
+		<Year>1989
+
+	</Date>
+
+	<Date>
+
+		<Type>End date
+		<Day>
+		<Month>April
+		<Year>1990
+
+	</Date>
+
+	<Site>Templecombe, Somerset
+
+	<Role>Graduate Software Engineer
+
+	<Summary>
+
+		<001>
+			<P>This was my first IT job after graduating.
+			</P>
+		</001>
+
+		<002>
+			<P>I joined Plessey Naval Systems as a graduate engineer and worked on the production of a submarine based sonar system. At Plessey I attended several courses including one on object oriented design, and one on digital signal processing. I programmed in Pascal and Ada for the Intel 80386 microprocessor in an MS-DOS based PC development environment. All the design work that I did at Plessey was carried out on SUN workstations using Cadre Technologies' Teamwork as a CASE tool to implement Yourdon design methodologies.
+			</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</002>
+
+	</Summary>
+
+	<Benefit>Technical Responsibility
+
+		<P>At Plessey, my technical responsibilities involved programming as part of a team, taking responsibility for testing of my own programs before submission to wider team effort, as well as ensuring that my code was error free, and did not interfere with any other modules. This was all in a coding environment of Pascal cross-compiled to assembler, and loaded onto proprietary embedded systems.
+		</P>
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Supervisory Responsibility
+
+		<P>I had no supervisory responsibility whilst at Plessey.
+		</P>
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Personal Achievements
+
+		<P>On a personal level, my job at Plessey was my first job in IT after graduation, and aside from learning about working in a commercial environment, I also developed in terms of programming and testing a variety of software modules for a variety of uses.
+		</P>
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Skills Acquired
+
+		<P>The skills that I acquired at Plessey, were primarily technical ones, including real-time embedded software development, Yourdon / Ward-Mellor analysis and design methodologies, use of the Cadre Technologies' Teamwork CASE tool, use of debugging tools, such as In Circuit Emulators, as well as design and implementation of pre-emptive operating systems.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Detailed_Description>
+
+		<001>
+
+			<P>Plessey was my first IT job after graduating from university.
+			</P>
+
+			<P>The project that I was involved in at Plessey was a submarine sonar system, covering everything from the hull mounted sonar arrays right through communications via the submarine's command and control systems, and including the user interface on a touch sensitive screen. My responsibilities covered designing and implementing a test rig for the communications protocol, designing the user interface menus, and other similar work as required.
+			</P>
+
+			<P>I worked as part of a team on a submarine sonar system, developing a real time embedded application, written in Pascal. Being a defence contractor, Plessey were very strong on analysis and design, and used thoroughly the Yourdon design methodology. To support their use of this methodology Plessey used the Cadre Technologies' Teamwork tool. My time at Plessey gave me a thorough grounding in developing embedded applications, and in use of the Yourdon design methodology.
+			</P>
+
+			<P>The design work was all carried out on Sun workstations using the Cadre Technologies' Teamwork product to produce Yourdon design documentation - data flow diagrams, data dictionary, essential model, et cetera.
+			</P>
+
+			<P>The coding was all carried out on IBM PCs, and then cross compiled for the Intel 80x86 microprocessor.
+			</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</001>
+
+		<002>
+
+			<P>My job with Plessey Naval Systems was my first IT job after graduation. I joined Plessey Naval Systems as a graduate engineer and worked on the production of a submarine based sonar system. At Plessey I attended several courses including one on object oriented design, and one on digital signal processing. I programmed in Pascal and Ada for the Intel 80386 microprocessor in an MS-DOS based PC development environment. All the design work that I did at Plessey was carried out on SUN workstations using Cadre Technologies' Teamwork as a CASE tool to implement Yourdon design methodologies.
+			</P>
+
+			<Used>Curriculum Vitae
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>Jaunary
+					<Year>2000
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>February
+					<Year>2000
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>June
+					<Year>2002
+				</Date>
+			</Used>
+
+		</002>
+
+		<003>
+
+			<P>My job with Plessey Naval Systems was my first IT job after graduation. I worked as a graduate engineer on the production of a submarine based sonar system. I attended several courses including object oriented design, and digital signal processing. All the design work that I did at Plessey was carried out on SUN workstations using Cadre Technologies' Teamwork as a CASE tool to implement Yourdon design methodologies.
+			</P>
+
+			<Used>Curriculum Vitae
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>July
+					<Year>2002
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>September
+					<Year>2003
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>September
+					<Year>2006
+				</Date>
+			</Used>
+
+		</003>
+
+	</Detailed_Description>
+
+</Employment>

@@ -1,0 +1,149 @@
+﻿<Employment>
+
+	<Date>
+
+		<Type>Start date
+		<Day>
+		<Month>
+		<Year>
+
+	</Date>
+
+	<Date>
+
+		<Type>End date
+		<Day>
+		<Month>
+		<Year>
+
+	</Date>
+
+	<Site>
+
+	<Role>
+
+	<Summary>
+
+		<001>
+			<P>
+			</P>
+		</001>
+
+		<002>
+			<P>
+			</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</002>
+
+	</Summary>
+
+	<Benefit>Technical Responsibility
+
+		<P>
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Supervisory Responsibility
+
+		<P>
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Personal Achievements
+
+		<P>
+		</P>
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Skills Acquired
+
+		<P>
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Detailed_Description>
+
+		<001>
+
+			<P>
+			</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</001>
+
+		<002>
+
+			<P>
+			</P>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>
+					<Year>
+				</Date>
+			</Used>
+
+		</002>
+
+	</Detailed_Description>
+
+</Employment>

@@ -1,0 +1,232 @@
+<Attendance>
+	<Institution>University of Ulster
+		<Address>
+			<Street_Address>Cromore Road
+			<Post_Town>COLERAINE
+			<County>Co. Londonderry
+			<Post_Code>BT52 1SA
+		</Address>
+
+	</Institution>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>August
+		<Year>1984
+	</Date>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>July
+		<Year>1988
+	</Date>
+
+	<Course>Computing Science with Mathematics
+	<Study_Level>Bachelor of Science
+
+</Attendance>
+
+<Attendance>
+	<Institution>Wellington School
+		<Address>
+			<Street_Address>
+			<Post_Town>WELLINGTON
+			<County>Somerset
+			<Post_Code>TA21 8NT
+		</Address>
+
+	</Institution>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>August
+		<Year>1982
+	</Date>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>July
+		<Year>1984
+	</Date>
+
+</Attendance>
+
+<Attendance>
+	<Institution>International School of Lusaka
+		<Address>
+			<Street_Address>
+			<Post_Town>LUSAKA
+			<County>
+			<Post_Code>
+			<Country>Zambia
+		</Address>
+
+	</Institution>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>August
+		<Year>1978
+	</Date>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>July
+		<Year>1982
+	</Date>
+
+	<Teacher>Mrs Lucy Gilmore
+		<Subject>Physics
+	<Teacher>Mr Steve Bracey
+		<Subject>Maths
+	<Teacher>Mrs Jean Westerman
+		<Subject>Chemistry
+
+</Attendance>
+
+<Attendance>
+	<Institution>Brewers Hill Middle School
+		<Address>
+			<Street_Address>Aldbanks
+			<Post_Town>DUNSTABLE
+			<County>Bedfordshire
+			<Post_Code>LU6 1AJ
+		</Address>
+
+	</Institution>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>April
+		<Year>1976
+	</Date>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>July
+		<Year>1978
+	</Date>
+
+</Attendance>
+
+<Attendance>
+	<Institution>Brdgewater Middle School
+		<Address>
+			<Street_Address>Bridle Way
+			<Post_Town>BERKHAMSTED
+			<County>Hertfordshire
+			<Post_Code>HP4 1ES
+		</Address>
+
+	</Institution>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>September
+		<Year>1975
+	</Date>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>March
+		<Year>1976
+	</Date>
+
+</Attendance>
+
+<Attendance>
+	<Institution>Victoria First School
+		<Address>
+			<Street_Address>Prince Edward Street
+			<Post_Town>BERKHAMSTED
+			<County>Hertfordshire
+			<Post_Code>HP4 3HA
+		</Address>
+
+	</Institution>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>
+		<Year>1974
+	</Date>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>July
+		<Year>1975
+	</Date>
+
+	<Teacher>Mr Jackson
+
+</Attendance>
+
+<Attendance>
+	<Institution>Brookmead Primary School
+		<Address>
+			<Street_Address>High Street
+			<Post_Town>IVINGHOE
+			<County>Bedfordshire
+			<Post_Code>LU7 9EX
+		</Address>
+
+	</Institution>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>September
+		<Year>1971
+	</Date>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>December
+		<Year>1973
+	</Date>
+
+	<Teacher>Mr Jackson
+
+</Attendance>
+
+<Attendance>
+	<Institution>Egerton Preparatory School
+		<Address>
+			<Street_Address>Charles Street
+			<Post_Town>BERKHAMSTED
+			<County>Hertfordshire
+			<Post_Code>HP4 3DG
+		</Address>
+
+	</Institution>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>September
+		<Year>1970
+	</Date>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>July
+		<Year>1971
+	</Date>
+
+</Attendance>
+
+

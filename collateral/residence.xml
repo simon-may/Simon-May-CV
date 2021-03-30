@@ -1,0 +1,1025 @@
+<Residence>
+
+	<Address>
+		<Street_Address>122 Rickmansworth Road
+		<Post_Town>WATFORD
+		<County>Hertfordshire
+		<Post_Code>WD18 7JG
+	</Address>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>
+		<Year>
+	</Date>
+
+	<Date>
+		<Type>Effective to
+		<Day>
+		<Month>
+		<Year>
+	</Date>
+
+	<Owner>
+
+	<Comments>This is the house that Uncle Harold (Eric Harold Wilkins) lived in with his mother (Lillian Wilkins, Nanny Wilkins) whilst Nana, Grandad and Mummy lived at 133
+
+</Residence>
+
+
+<Residence>
+
+	<Address>
+		<Street_Address>133 Rickmansworth Road
+		<Post_Town>WATFORD
+		<County>Hertfordshire
+		<Post_Code>WD18 7FH
+	</Address>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>
+		<Year>
+	</Date>
+
+	<Date>
+		<Type>Effective to
+		<Day>
+		<Month>
+		<Year>
+	</Date>
+
+	<Owner>
+
+	<Comments>This is the house that Nana and Grandad were given as a wedding present, and at which they lived in Watford until the mid-1960's when they retired to Devon.
+
+</Residence>
+
+
+<Residence>
+
+	<Address>
+		<Street_Address>Magnolia, 41 Fore Street, Shaldon
+		<Post_Town>TEIGNMOUTH
+		<County>Devon
+		<Post_Code>TQ14 0EA
+	</Address>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>
+		<Year>
+	</Date>
+
+	<Date>
+		<Type>Effective to
+		<Day>
+		<Month>
+		<Year>
+	</Date>
+
+	<Owner>Wilkins, Mr Harold Eric
+	<Owner>Wilkins, Mrs Annie Kathleen
+	<Owner>Wilkins, Mr Eric Harold
+
+	<Comments>This is the house that Nana, Grandad and Uncle owned for some time before eventually retiring here in the mid-1960's from Watford
+
+</Residence>
+
+
+<Residence>
+
+	<Address>
+		<Street_Address>Marliam, 1 Southdowns Road
+		<Post_Town>DAWLISH
+		<County>Devon
+		<Post_Code>EX7 0LB
+	</Address>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>
+		<Year>
+	</Date>
+
+	<Date>
+		<Type>Effective to
+		<Day>
+		<Month>
+		<Year>
+	</Date>
+
+	<Owner>Wilkins, Mr Harold Eric
+		<Also_Known_As>Grandad
+			<By>Simon
+			<By>Julia
+		<Also_Known_As>Eric
+			<By>Nana
+			<By>Friends
+		<Also_Known_As>Daddy
+			<By>Diane
+	<Owner>Wilkins, Mrs Annie Kathleen
+		<Also_Known_As>Nana
+			<By>Simon
+			<By>Julia
+		<Also_Known_As>Mummy
+			<By>Diane
+	<Owner>Wilkins, Mr Eric Harold
+		<Also_Known_As>Uncle Harold
+			<By>Simon
+			<By>Julia
+			<By>Diane
+
+	<Comments>
+
+</Residence>
+
+
+<Residence>
+
+	<Address>
+		<Street_Address>14 (?) Derncleugh Gardens
+		<Post_Town>DAWLISH
+		<County>Devon
+		<Post_Code>EX7 0JG
+	</Address>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>
+		<Year>
+	</Date>
+
+	<Date>
+		<Type>Effective to
+		<Day>
+		<Month>
+		<Year>
+	</Date>
+
+	<Owner>Wilkins, Mr Harold Eric
+	<Owner>Wilkins, Mrs Annie Kathleen
+
+	<Comments>Smaller house that Nana and Grandad moved to after Marliam became too large to look after
+
+</Residence>
+
+
+<Residence>
+
+	<Address>
+		<Street_Address>Flat 12, Rockstone
+		<Post_Town>DAWLISH
+		<County>Devon
+		<Post_Code>EX7 0RX
+	</Address>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>
+		<Year>
+	</Date>
+
+	<Date>
+		<Type>Effective to
+		<Day>
+		<Month>
+		<Year>
+	</Date>
+
+	<Owner>Wilkins, Mr Harold Eric
+	<Owner>Wilkins, Mrs Annie Kathleen
+
+	<Comments>Flat that Nana and Grandad moved to as Grandad's health deteriorated
+
+</Residence>
+
+<Residence>
+
+	<Address>
+		<Street_Address>3 Capel Gardens
+		<Post_Town>PINNER
+		<County>Middlesex
+		<Post_Code>HA5 5RE
+	</Address>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>
+		<Year>
+	</Date>
+
+	<Date>
+		<Type>Effective to
+		<Day>
+		<Month>
+		<Year>
+	</Date>
+
+	<Owner>Wilkins, Mrs Annie Kathleen
+
+	<Comments>Flat that Nana lived in after moving from Devon
+	<Comments>This flat was close to where mummy lived at the time
+
+</Residence>
+
+
+<Residence>
+	<Address>
+		<Street_Address>Stratford Cottage, Vicarage Lane
+		<Post_Town>IVINGHOE
+		<County>Buckinghamshire
+		<Post_Code>LU7 9EQ
+	</Address>
+
+	<Date>
+		<Type>Effective from
+		<Day>27
+		<Month>May
+		<Year>1966
+	</Date>
+
+	<Date>
+		<Type>Effective to
+		<Day>
+		<Month>December
+		<Year>1973
+	</Date>
+
+	<Owner>Mr Robert May
+	<Owner>Mrs Diane May
+
+	<Lived_With>Mother
+	<Lived_With>Father
+	<Lived_With>Julia
+		<Date>
+			<Type>Effective from
+			<Day>19
+			<Month>May
+			<Year>1968
+		</Date>
+	</Lived_With>
+
+	<Comments>"This was the first place that I lived"
+
+</Residence>
+
+
+<Residence>
+	<Address>
+		<Street_Address>Station Road
+		<Post_Town>BERKHAMSED
+		<County>Hertfordshire
+		<Post_Code>HP4 2EY
+	</Address>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>January
+		<Year>1974
+	</Date>
+
+	<Date>
+		<Type>Effective to
+		<Day>
+		<Month>
+		<Year>
+	</Date>
+
+	<Owner>Mrs Diane May
+
+	<Lived_With>Mother
+	<Lived_With>Julia
+
+</Residence>
+
+
+<Residence>
+	<Address>
+		<Street_Address>Ellesmere Road
+		<Post_Town>BERKHAMSED
+		<County>Hertfordshire
+		<Post_Code>HP4 2EX
+	</Address>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>
+		<Year>
+	</Date>
+
+	<Date>
+		<Type>Effective to
+		<Day>
+		<Month>
+		<Year>
+	</Date>
+
+	<Owner>Mr Eric Wilkins
+
+	<Lived_With>Mother
+	<Lived_With>David
+	<Lived_With>Julia
+
+</Residence>
+
+
+<Residence>
+	<Address>
+		<Street_Address>35 Rectory Close, Slapton
+		<Post_Town>LEIGHTON BUZZARD
+		<County>Buckinghamshire
+		<Post_Code>LU7 9BZ
+	</Address>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>
+		<Year>
+	</Date>
+
+	<Date>
+		<Type>Effective to
+		<Day>20
+		<Month>August
+		<Year>1978
+	</Date>
+
+	<Owner>Mr David Bell
+	<Owner>Mrs Diane Bell
+
+	<Lived_With>Mother
+	<Lived_With>David
+	<Lived_With>Julia
+
+</Residence>
+
+
+<Residence>
+	<Address>
+		<Street_Address>7 Chila Road
+		<Post_Town>LUSAKA
+		<County>
+		<Post_Code>
+		<Country>Zambia
+	</Address>
+
+	<Date>
+		<Type>Effective from
+		<Day>20
+		<Month>August
+		<Year>1978
+	</Date>
+
+	<Date>
+		<Type>Effective to
+		<Day>20
+		<Month>August
+		<Year>1982
+	</Date>
+
+	<Owner>International School of Lusaka
+
+	<Lived_With>Mother
+	<Lived_With>David
+	<Lived_With>Julia
+
+</Residence>
+
+
+<Residence>
+	<Address>
+		<Street_Address>Darks House, Wellington School, South Street
+		<Post_Town>WELLINGTON
+		<County>Somerset
+		<Post_Code>TA21 8NZ
+	</Address>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>September
+		<Year>1982
+	</Date>
+
+	<Date>
+		<Type>Effective to
+		<Day>
+		<Month>July
+		<Year>1984
+	</Date>
+
+	<Owner>Wellington School
+
+	<Comments>"2 years at boarding school doing my A levels"
+	<Comments>"I only stayed here during term time"
+
+</Residence>
+
+
+<Residence>
+	<Address>
+		<Street_Address>242 Ellesmere Road
+		<Post_Town>NEWCASTLE-upon-TYNE
+		<County>
+		<Post_Code>NE4 8TS
+	</Address>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>August
+		<Year>1983
+	</Date>
+
+	<Date>
+		<Type>Effective to
+		<Day>
+		<Month>August
+		<Year>1987
+	</Date>
+
+	<Owner>Mr David Bell
+	<Owner>Mrs Diane Bell
+
+	<Lived_With>Mother
+	<Lived_With>David
+	<Lived_With>Julia
+
+	<Comments>"Mummy and David lived here during my Upper Sixth year at Wellington and during my first three years at university in Coleraine"
+	<Comments>"I stayed here during holidays whilst at Wellington and then again whilst in Coleraine"
+
+</Residence>
+
+
+<Residence>
+	<Address>
+		<Street_Address>1 Hamilton Road
+		<Post_Town>HARROW
+		<County>Middlesex
+		<Post_Code>HA1 1SU
+	</Address>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>August
+		<Year>1987
+	</Date>
+
+	<Date>
+		<Type>Effective to
+		<Day>
+		<Month>
+		<Year>1994
+	</Date>
+
+	<Owner>Buckingham College School
+
+	<Lived_With>Mother
+	<Lived_With>David
+
+	<Comments>"Mummy and David moved here at the end of my placement year in London with Unisys - Aug 1986 to Aug 1987"
+	<Comments>"I stayed here during holidays whilst at university in Coleraine, and then lived here whilst working in Watford"
+
+</Residence>
+
+
+<Residence>
+	<Address>
+		<Street_Address>5 St James Close
+		<Post_Town>EASTCOTE
+		<County>Middlesex
+		<Post_Code>HA4 9EQ
+	</Address>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>
+		<Year>1994
+	</Date>
+
+	<Date>
+		<Type>Effective to
+		<Day>
+		<Month>July
+		<Year>2003
+	</Date>
+
+	<Owner>Mrs Diane Bell
+
+	<Comments>"This is where mummy lived after Harrow and before Bedford"
+	<Comments>"Whilst I never actually lived here, it did serve as my 'base' for some of the years whilst I was contracting and before moving into Langham Place in Northampton"
+
+</Residence>
+
+
+<Residence>
+	<Address>
+		<Street_Address>32 Mark Street
+		<Post_Town>PORTRUSH
+		<County>Co. Antrim
+		<Post_Code>BT56 8BT
+	</Address>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>September
+		<Year>1984
+	</Date>
+
+	<Date>
+		<Type>Effective to
+		<Day>
+		<Month>December
+		<Year>1984
+	</Date>
+
+	<Owner>Mr Billy (?) McCullough
+	<Owner>Mrs Margaret McCullough
+
+	<Lived_With>Gary Brogan
+	<Lived_With>Anne-Marie Sheridan
+	<Lived_With>Paul
+	<Lived_With>Alex
+	<Lived_With>Steve
+	<Lived_With>"Mrs McCullough and lodgers"
+
+	<Comments>"During first term at University"
+
+</Residence>
+
+
+<Residence>
+	<Address>
+		<Street_Address>30 Mark Street
+		<Post_Town>PORTRUSH
+		<County>Co. Antrim
+		<Post_Code>BT56 8BT
+	</Address>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>January
+		<Year>1985
+	</Date>
+
+	<Date>
+		<Type>Effective to
+		<Day>
+		<Month>July
+		<Year>1986
+	</Date>
+
+	<Lived_With>Gary Brogan
+	<Lived_With>Anne-Marie Sheridan
+	<Lived_With>Steve
+		<Date>
+			<Type>Effective to
+			<Day>
+			<Month>July
+			<Year>1985
+		</Date>
+	</Lived_With>
+
+	<Comments>"During the remainder of my first year at Coleraine, and for all of my second year"
+	<Comments>"I only stayed here during term time"
+
+</Residence>
+
+
+<Residence>
+	<Address>
+		<Street_Address>
+		<Post_Town>ILFORD
+		<County>Essex
+		<Post_Code>
+	</Address>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>August
+		<Year>1986
+	</Date>
+
+	<Date>
+		<Type>Effective to
+		<Day>
+		<Month>November
+		<Year>1986
+	</Date>
+
+	<Comments>"Temporary - shared - accomodation during my year with Unisys"
+
+</Residence>
+
+
+<Residence>
+	<Address>
+		<Street_Address>32n Eastern Avenue
+		<Post_Town>GANT'S HILL
+		<County>Essex
+		<Post_Code>IG2 6LS
+	</Address>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>November
+		<Year>1986
+	</Date>
+
+	<Date>
+		<Type>Effective to
+		<Day>
+		<Month>August
+		<Year>1987
+	</Date>
+
+	<Owner>Mr Oscar German
+
+	<Comments>"Longer term lodging with Mr Oscar German"
+
+</Residence>
+
+
+<Residence>
+	<Address>
+		<Street_Address>Coleraine Academical Institution, Castlerock Road
+		<Post_Town>COLERAINE
+		<County>Co. Londonderry
+		<Post_Code>BT51 3LA
+	</Address>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>August
+		<Year>1987
+	</Date>
+
+	<Date>
+		<Type>Effective to
+		<Day>
+		<Month>July
+		<Year>1988
+	</Date>
+
+	<Owner>Coleraine Academical Institution
+
+	<Comments>"I was resident boarding master here during my final - fourth - year at university"
+	<Comments>"I only stayed here during term time"
+
+</Residence>
+
+
+<Residence>
+	<Address>
+		<Street_Address>Lily Lane
+		<Post_Town>TEMPLECOMBE
+		<County>Somerset
+		<Post_Code>BA8 0HN
+	</Address>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>February
+		<Year>1989
+	</Date>
+
+	<Date>
+		<Type>Effective to
+		<Day>
+		<Month>March
+		<Year>1989
+	</Date>
+
+	<Owner>
+
+	<Comments>"Lodging with family and other lodgers for a few weeks"
+
+</Residence>
+
+
+<Residence>
+	<Address>
+		<Street_Address>Ham Court, Shaftesbury Road
+		<Post_Town>GILLINGHAM
+		<County>Dorset
+		<Post_Code>SP8 4LU
+	</Address>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>March
+		<Year>1989
+	</Date>
+
+	<Date>
+		<Type>Effective to
+		<Day>
+		<Month>April
+		<Year>1990
+	</Date>
+
+	<Owner>
+
+	<Lived_With>?
+		<Date>
+			<Type>Effective to
+			<Day>
+			<Month>
+			<Year>
+		</Date>
+	</Lived_With>
+	<Lived_With>Andy Harrison ?  Hamilton ?
+		<Date>
+			<Type>Effective from
+			<Day>
+			<Month>
+			<Year>
+		</Date>
+	</Lived_With>
+
+	<Comments>"Rented a flat which I shared with - firstly - ? and then with Andy"
+
+</Residence>
+
+
+<Residence>
+	<Address>
+		<Street_Address>Thomas Telford Basin, Picadilly Village
+		<Post_Town>MANCHESTER
+		<County>
+		<Post_Code>M1 2NH
+	</Address>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>February
+		<Year>1993
+	</Date>
+
+	<Date>
+		<Type>Effective to
+		<Day>
+		<Month>July
+		<Year>1993
+	</Date>
+
+	<Owner>Mr Khuzeima Mohammedbhai
+
+	<Comments>"I rented from Khuz for a few months"
+
+</Residence>
+
+
+<Residence>
+	<Address>
+		<Street_Address>84 Vancouver Quay, Salford Quays
+		<Post_Town>SALFORD
+		<County>
+		<Post_Code>M50 3TX
+	</Address>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>August
+		<Year>1993
+	</Date>
+
+	<Date>
+		<Type>Effective to
+		<Day>
+		<Month>August
+		<Year>1994
+	</Date>
+
+	<Owner>Mr Philip Jerath
+
+	<Lived_With>Philip
+
+	<Comments>"I stayed with Philip for - quite - a few months, and paid him rent"
+
+</Residence>
+
+
+<Residence>
+	<Address>
+		<Street_Address>25 Elgar Mews, Ednall Lane
+		<Post_Town>BROMSGROVE
+		<County>Worcestershire
+		<Post_Code>B60 2DB
+	</Address>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>August
+		<Year>1994
+	</Date>
+
+	<Date>
+		<Type>Effective to
+		<Day>
+		<Month>June
+		<Year>1997
+	</Date>
+
+	<Owner>Ms Lucy Foster
+
+	<Lived_With>Lucy
+
+	<Comments>
+
+</Residence>
+
+
+<Residence>
+	<Address>
+		<Street_Address>9 The Rise, Kingsthorpe
+		<Post_Town>NORTHAMPTON
+		<County>Northamptonshire
+		<Post_Code>NN2 6QQ
+	</Address>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>June
+		<Year>1997
+	</Date>
+
+	<Date>
+		<Type>Effective to
+		<Day>
+		<Month>August
+		<Year>1997
+	</Date>
+
+	<Owner>
+
+	<Lived_With>Lucy
+
+	<Comments>"Rented from Homewise"
+
+</Residence>
+
+
+<Residence>
+	<Address>
+		<Street_Address>16 Langham Place
+		<Post_Town>NORTHAMPTON
+		<County>Northamptonshire
+		<Post_Code>NN2 6AA
+	</Address>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>August
+		<Year>1997
+	</Date>
+
+	<Date>
+		<Type>Effective to
+		<Day>
+		<Month>April
+		<Year>2003
+	</Date>
+
+	<Owner>Mr Simon May
+	<Owner>Mrs Lucy May
+
+	<Lived_With>Lucy
+		<Date>
+			<Type>Effective to
+			<Day>
+			<Month>July
+			<Year>2000
+		</Date>
+	</Lived_With>
+
+	<Comments>
+
+</Residence>
+
+
+<Residence>
+	<Address>
+		<Street_Address>13 Beverley Crescent
+		<Post_Town>BEDFORD
+		<County>Bedfordshire
+		<Post_Code>MK40 4BX
+	</Address>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>April
+		<Year>2003
+	</Date>
+
+	<Date>
+		<Type>Effective to
+		<Day>
+		<Month>December
+		<Year>2003
+	</Date>
+
+	<Owner>Mr Hossey Saghri
+	<Owner>Mrs Julia Saghri
+
+	<Lived_With>Julia
+	<Lived_With>Hossey
+	<Lived_With>Dominic
+
+	<Comments>
+
+</Residence>
+
+
+<Residence>
+
+	<Address>
+		<Street_Address>176 Bromham Road
+		<Post_Town>BEDFORD
+		<County>Bedfordshire
+		<Post_Code>MK40 4BW
+	</Address>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>July
+		<Year>2003
+	</Date>
+
+	<Date>
+		<Type>Effective to
+		<Day>
+		<Month>
+		<Year>
+	</Date>
+
+	<Owner>Mrs Diane Bell
+	<Owner>Mrs Anne Kathleen Wilkins
+
+	<Comments>"This is the house that mummy has retired to and bought Nana with her."
+	<Comments>"I lived here for some time, and it continues to be a base of sorts."
+	<Comments>"At present date - August 2006 - my base is split between Sarah's and here - Bromham Road, Bedford."
+
+</Residence>
+
+
+<Residence>
+
+	<Address>
+		<Street_Address>30 Milton Street
+		<Post_Town>NORTHAMPTON
+		<County>Northamptonshire
+		<Post_Code>NN2 7JF
+	</Address>
+
+	<Date>
+		<Type>Effective from
+		<Day>
+		<Month>April
+		<Year>2005
+	</Date>
+
+	<Date>
+		<Type>Effective to
+		<Day>
+		<Month>
+		<Year>
+	</Date>
+
+	<Owner>Ms Sarah FitzGerald
+
+	<Lived_With>Sarah
+
+	<Comments>"At present date - August 2006 - my base is split between mother's and here - Milton Street, Northampton."
+
+</Residence>
+
+
+

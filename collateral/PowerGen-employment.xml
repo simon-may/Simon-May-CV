@@ -1,0 +1,273 @@
+﻿<Employment>PowerGen
+
+	<Date>
+
+		<Type>Start date
+		<Day>
+		<Month>October
+		<Year>1995
+
+	</Date>
+
+	<Date>
+
+		<Type>End date
+		<Day>
+		<Month>March
+		<Year>1998
+
+	</Date>
+
+	<Site>Westwood Business Park, Coventry
+
+	<Role>Project Manager
+	<Role>Business Analyst
+	<Role>Software Engineer
+
+	<Summary>
+
+		<001>
+			<P>
+			</P>
+		</001>
+
+		<002>
+			<P>At PowerGen, I worked on a variety of projects within the scope of PowerGen's direct sales organisation. My initial involvement with PowerGen was as a software engineer in order to analyse, design and implement a system to register PowerGen's new customers with a national registration system.  I then project managed several small projects to do with streamlining PowerGen's direct sales division.
+			</P>
+
+			<P>In October 1996, I was asked to project manage one of the four strands of PowerGen's 1998 (preparedness for deregulation) programme.  In May 1997, PowerGen subcontracted the work to actually code the required Oracle based applications.  I continued in a management capacity, providing consultancy and analysis expertise, and also reviewing the work of the sub-contractor on behalf of PowerGen.
+			</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</002>
+
+	</Summary>
+
+	<Benefit>Technical Responsibility
+
+		<P>My technical responsibilities at PowerGen differed depending on the project that I was working on at the time, but included analysis and design of IT systems, liaison with users, and analysis, design and implementation of variety of systems running on UNIX, and written in 'C', using either Ingres or Oracle.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Supervisory Responsibility
+
+		<P>During my time at PowerGen, I had several positions of supervisory responsibility, including being a team leader, and for the last six months of my time at PowerGen being project manager for a project team which included internal PowerGen staff, contractors, and members of a third party supplier.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Personal Achievements
+
+		<P>On a personal level, I thoroughly enjoyed my time at PowerGen, and felt that the many experiences that I gained during my time there gave me many personal achievements.  To single out a particular personal achievement it would be my gaining successful project management experience.
+		</P>
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Skills Acquired
+
+		<P>In addition to building on my existing skills and experience, whilst at PowerGen, I added strong business analysis skills, and strong project management skills.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Detailed_Description>
+
+		<001>
+
+			<P>My first piece of work at PowerGen, was designing and implementing a database system for use in the registration of 'second tier supplier' electricity meter systems.  The system runs on IBM RS6000 machines running AIX, and the system was implemented in 'C' with embedded SQL interfacing to an Ingres database.  The system that I implemented interfaces to the Electronic Registration System (ERS) which is run by the Statutory Supply Authority (SSA).
+			</P>
+
+			<P>Following the successful implementation of the registration system, I performed consultancy and UNIX/C developer role on several small projects within the wider context of PowerGen’s Sales and Marketing function.
+			</P>
+
+			<P>After my initial work at PowerGen, I project managed the 'SPS' (sales productivity tool) development on an on-going basis, implementing changes and new work as it arose.  A very successful implementation resulted in account managers being able to target prospects more reliably and in having accurate and up to date information to hand. SPS is a proprietary product running under MS Windows and Novell Netware. As part of the integration of SPS into the post-Sales function within PowerGen, my role on SPS encompassed UNIX / C, and embedded SQL with Ingres.
+			</P>
+
+			<P>The next project that I worked on was PowerGen's 1998 project to prepare for the opening of the electricity market for competition.  I started as project manager of the registration project during the analysis and design phase and during the successful hand over to an external software agency for implementation on an AIX platform running an Oracle database.  I performed a consultancy role from then on, which involved assisting users in production of low level requirements, and assisting the external agency in evaluation and review of their solution.
+			</P>
+
+			<P>After the initial analysis and design phase of the 1998 project, I continued in my role of business analyst and consultant with a wider purview than the registration project.  The main focus of my role was in facilitating communication between users, IT developers, and the external software agency, as well as providing design authority to the development team using the Oracle database.
+			</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</001>
+
+		<002>
+
+			<P>Nov 1995 to Nov 1996	PowerGen Plc	Software Engineer
+Contract
+			</P>
+
+			<P>My first piece of work at PowerGen, was designing and implementing a database system for use in the registration of "second tier supplier" electricity meter systems.  The system runs on IBM RS6000 machines running AIX, and the system has been implemented in 'C' with embedded SQL interfacing to an Ingres database.  The system which I have implemented interfaces to the Electronic Registration System (ERS) which is run by the Statutory Supply Authority (SSA).
+			</P>
+
+			<P>Following the successful implementation of the registration system, I performed consultancy and UNIX/C developer role on several small projects within the wider context of PowerGen’s Sales and Marketing function.
+			</P>
+
+			<P>Nov 1996 to Feb 1997	PowerGen Plc	Project Manager
+Contract
+			</P>
+
+			<P>After my initial work at PowerGen, I project managed the "SPS" (sales productivity tool) development on an on-going basis, implementing changes and new work as it arose.  A very successful implementation resulted in account managers being able to target prospects more reliably and in having accurate and up to date information to hand.  SPS is a proprietary product running under MSWindows and Novell Netware.  As part of the integration of SPS into the post-Sales function within PowerGen, my role on SPS encompassed UNIX / C, and embedded SQL with Ingres.
+			</P>
+
+			<P>Feb 1997 to Apr 1998	PowerGen Plc	Business Analyst / Project Manager
+Contract
+			</P>
+
+			<P>The next project that I worked on was PowerGen's 1998 project to prepare for the opening of the electricity market for competition.  I started as project manager of the registration project during the analysis and design phase and during the successful hand over to an external software agency for implementation on an AIX platform running an Oracle database.  I performed a consultancy role from then on which involved assisting users in production of low level requirements, and assisting the external agency in evaluation and review of their solution.
+			</P>
+
+			<P>After the initial analysis and design phase of the 1998 project, I continued in my role of business analyst and consultant with a wider purview than the registration project.  The main focus of my role was in facilitating communication between users, IT developers, and the external software agency, as well as providing design authority to the development team using the Oracle database.
+			</P>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>May
+					<Year>1998
+				</Date>
+			</Used>
+
+		</002>
+
+		<003>
+
+			<P>At PowerGen, I worked on a variety of projects within the scope of PowerGen's direct sales organisation.  My initial involvement with PowerGen was as a software engineer in order to design and implement a system to register PowerGen's new customers with a national registration system.
+			</P>
+
+			<P>I then project managed several small projects to do with streamlining PowerGen's direct sales division.
+			</P>
+
+			<P>In October 1996, I was asked to project manage one of the four strands of PowerGen's 1998 (preparedness for deregulation) programme.  In May 1997, PowerGen subcontracted the work to actually code the required Oracle based applications.  I continued in a management capacity, providing consultancy and analysis expertise, and also reviewing the work of the subcontractor on behalf of PowerGen.
+			</P>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>January
+					<Year>2000
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>February
+					<Year>2000
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</003>
+
+		<004>
+
+			<P>At PowerGen, I worked on a variety of projects within the scope of PowerGen's direct sales organisation.  My initial involvement with PowerGen was as a software engineer in order to analyse, design and implement a system to register PowerGen's new customers with the electricity industry's national registration system.  I then project managed several small projects to do with streamlining PowerGen's direct sales division.
+			</P>
+
+			<P>In October 1996, I was asked to project manage one of the four strands of PowerGen's 1998 (preparedness for deregulation) programme.  In May 1997, PowerGen subcontracted the work to actually code the required Oracle based applications.  I continued in a management capacity, providing consultancy and analysis expertise, and also reviewing the work of the subcontractor on behalf of PowerGen.
+			</P>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>July
+					<Year>2002
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>September
+					<Year>2003
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>September
+					<Year>2006
+				</Date>
+			</Used>
+
+		</004>
+
+	</Detailed_Description>
+
+</Employment>

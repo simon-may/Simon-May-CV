@@ -1,0 +1,208 @@
+<Training_Course>Logiscope product training
+	<Date>
+		<Type>Course start date
+		<Day>26
+		<Month>October
+		<Year>1992
+	</Date>
+	<Duration>4
+		<units>days
+
+	<Course_Given_By>Verilog
+
+	<Course_Location>CASE Communications premises
+
+	<Comments>"Real-time systems debugging tool and testing tool"
+
+</Training_Course>
+
+
+<Training_Course>SMARTSystem product training
+	<Date>
+		<Type>Course start date
+		<Day>18
+		<Month>August
+		<Year>1992
+	</Date>
+	<Duration>2
+		<units>days
+
+	<Course_Given_By>SMARTSystem
+
+	<Course_Location>CASE Communications premises
+
+	<Comments>"Real-time systems computer aided development tool and development environment"
+
+</Training_Course>
+
+
+<Training_Course>Fast Packet Switching
+	<Date>
+		<Type>Course start date
+		<Day>01
+		<Month>August
+		<Year>1991
+	</Date>
+	<Duration>2
+		<units>days
+
+	<Course_Given_By>CASE Communications
+
+	<Course_Location>CASE Communications premises
+
+	<Comments>"Frame relay theory"
+
+</Training_Course>
+
+
+<Training_Course>Novell Netware 286
+	<Date>
+		<Type>Course start date
+		<Day>23
+		<Month>July
+		<Year>1991
+	</Date>
+	<Duration>5
+		<units>days
+
+	<Course_Given_By>CASE Communications
+
+	<Course_Location>CASE Communications premises
+
+	<Comments>
+
+</Training_Course>
+
+
+<Training_Course>CASE DCX 860 product training
+	<Date>
+		<Type>Course start date
+		<Day>25
+		<Month>March
+		<Year>1991
+	</Date>
+	<Duration>5
+		<units>days
+
+	<Course_Given_By>CASE Communications
+
+	<Course_Location>CASE Communications premises
+
+	<Comments>
+
+</Training_Course>
+
+
+<Training_Course>Advanced C Workshop
+	<Date>
+		<Type>Course start date
+		<Day>29
+		<Month>October
+		<Year>1990
+	</Date>
+	<Duration>5
+		<units>days
+
+	<Course_Given_By>"Instruction Set"
+
+	<Course_Location>"Instruction Set" premises
+
+	<Comments>
+
+</Training_Course>
+
+
+<Training_Course>C Programming Workshop
+	<Date>
+		<Type>Course start date
+		<Day>11
+		<Month>June
+		<Year>1990
+	</Date>
+	<Duration>5
+		<units>days
+
+	<Course_Given_By>"Instruction Set"
+
+	<Course_Location>"Instruction Set" premises
+
+	<Comments>
+
+</Training_Course>
+
+
+<Training_Course>Presentation Skills
+	<Date>
+		<Type>Course start date
+		<Day>01
+		<Month>February
+		<Year>1990
+	</Date>
+	<Duration>2
+		<units>days
+
+	<Course_Given_By>Plessey Naval Systems
+
+	<Course_Location>Plessey premises
+
+	<Comments>
+
+</Training_Course>
+
+
+<Training_Course>Signalytics I
+	<Date>
+		<Type>Course start date
+		<Day>17
+		<Month>July
+		<Year>1989
+	</Date>
+	<Duration>5
+		<units>days
+
+	<Course_Given_By>Plessey Naval Systems
+
+	<Course_Location>Plessey premises
+
+	<Comments>"Basic signal analysis and processing"
+
+</Training_Course>
+
+
+<Training_Course>Motorola DSP 56000
+	<Date>
+		<Type>Course start date
+		<Day>30
+		<Month>May
+		<Year>1989
+	</Date>
+	<Duration>5
+		<units>days
+
+	<Course_Given_By>
+
+	<Course_Location>Plessey premises
+
+	<Comments>"Digital signal processing and the use of the Motorola DSP 56001 microprocessor chip"
+
+</Training_Course>
+
+
+<Training_Course>Basic Ada programming
+	<Date>
+		<Type>Course start date
+		<Day>23
+		<Month>January
+		<Year>1989
+	</Date>
+	<Duration>5
+		<units>days
+
+	<Course_Given_By>Plessey Naval Systems
+
+	<Course_Location>Plessey premises
+
+	<Comments>
+
+</Training_Course>
+

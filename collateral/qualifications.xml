@@ -1,0 +1,418 @@
+<Qualification>Chartered Engineer
+	<Abbreviation>CEng
+
+	<Date>
+		<Type>Acceptance date
+		<Day>13
+		<Month>April
+		<Year>2000
+	</Date>
+
+	<Examining_Body>British Computer Society
+
+	<Grade>CEng
+
+</Qualification>
+
+<Qualification>Member of the British Computer Society
+	<Abbreviation>MBCS
+
+	<Date>
+		<Type>Acceptance date
+		<Day>13
+		<Month>April
+		<Year>2000
+	</Date>
+
+	<Examining_Body>British Computer Society
+
+	<Grade>MBCS
+
+</Qualification>
+
+<Qualification>BSc [Hons] Computing Science
+	<Examination_Level>
+		<Name>Bachelor of Science
+		<Abbreviation>BSc [Hons]
+	</Examination_Level>
+
+	<Examination_Subject>Computing Science with Mathematics
+
+	<Date>
+		<Type>Qualification date
+		<Day>30
+		<Month>June
+		<Year>1988
+	</Date>
+
+	<Examining_Body>University of Ulster at Coleraine
+
+	<Grade>III
+
+	<Educated_By>University of Ulster at Coleraine
+
+</Qualification>
+
+<Qualification>Mathematics A level
+	<Examination_Level>
+		<Name>General Certificate of Education, Advanced level
+		<Abbreviation>GCE A level
+	</Examination_Level>
+
+	<Examination_Subject>Mathematics
+
+	<Date>
+		<Type>Examination date
+		<Day>
+		<Month>June
+		<Year>1984
+	</Date>
+
+	<Examining_Body>Oxford and Cambridge Schools Examination Board
+
+	<Grade>B
+
+	<Educated_By>Wellington School
+
+</Qualification>
+
+<Qualification>Further Mathematics A level
+	<Examination_Level>
+		<Name>General Certificate of Education, Advanced level
+		<Abbreviation>GCE A level
+	</Examination_Level>
+
+	<Examination_Subject>Further Mathematics
+
+	<Date>
+		<Type>Examination date
+		<Day>
+		<Month>June
+		<Year>1984
+	</Date>
+
+	<Examining_Body>Oxford and Cambridge Schools Examination Board
+
+	<Grade>O
+
+	<Educated_By>Wellington School
+
+</Qualification>
+
+<Qualification>Physics A level
+	<Examination_Level>
+		<Name>General Certificate of Education, Advanced level
+		<Abbreviation>GCE A level
+	</Examination_Level>
+
+	<Examination_Subject>Physics
+
+	<Date>
+		<Type>Examination date
+		<Day>
+		<Month>June
+		<Year>1984
+	</Date>
+
+	<Examining_Body>Oxford and Cambridge Schools Examination Board
+
+	<Grade>E
+
+	<Educated_By>Wellington School
+
+</Qualification>
+
+<Qualification>Chemistry A level
+	<Examination_Level>
+		<Name>General Certificate of Education, Advanced level
+		<Abbreviation>GCE A level
+	</Examination_Level>
+
+	<Examination_Subject>Chemistry
+
+	<Date>
+		<Type>Examination date
+		<Day>
+		<Month>June
+		<Year>1984
+	</Date>
+
+	<Examining_Body>Oxford and Cambridge Schools Examination Board
+
+	<Grade>O
+
+	<Educated_By>Wellington School
+
+</Qualification>
+
+<Qualification>French CSE
+	<Examination_Level>
+		<Name>Certificate of Secondary Education
+		<Abbreviation>CSE
+	</Examination_Level>
+
+	<Examination_Subject>French
+
+	<Date>
+		<Type>Examination date
+		<Day>
+		<Month>June
+		<Year>1983
+	</Date>
+
+	<Examining_Body>
+
+	<Grade>1
+
+	<Educated_By>Wellington School
+
+</Qualification>
+
+<Qualification>English Literature O level
+	<Examination_Level>
+		<Name>General Certificate of Education, Ordinary level
+		<Abbreviation>GCE O level
+	</Examination_Level>
+
+	<Examination_Subject>English Literature
+
+	<Date>
+		<Type>Examination date
+		<Day>
+		<Month>June
+		<Year>1982
+	</Date>
+
+	<Examining_Body>
+
+	<Grade>B
+
+	<Educated_By>International School of Lusaka
+
+</Qualification>
+
+<Qualification>Advanced Mathematics AO level
+	<Examination_Level>
+		<Name>General Certificate of Education, Alternative Ordinary level
+		<Abbreviation>GCE AO level
+	</Examination_Level>
+
+	<Examination_Subject>Advanced Mathematics
+
+	<Date>
+		<Type>Examination date
+		<Day>
+		<Month>June
+		<Year>1982
+	</Date>
+
+	<Examining_Body>
+
+	<Grade>B
+
+	<Educated_By>International School of Lusaka
+
+</Qualification>
+
+<Qualification>Physics O level
+	<Examination_Level>
+		<Name>General Certificate of Education, Ordinary level
+		<Abbreviation>GCE O level
+	</Examination_Level>
+
+	<Examination_Subject>Physics
+
+	<Date>
+		<Type>Examination date
+		<Day>
+		<Month>June
+		<Year>1982
+	</Date>
+
+	<Examining_Body>
+
+	<Grade>B
+
+	<Educated_By>International School of Lusaka
+
+</Qualification>
+
+<Qualification>Chemistry O level
+	<Examination_Level>
+		<Name>General Certificate of Education, Ordinary level
+		<Abbreviation>GCE O level
+	</Examination_Level>
+
+	<Examination_Subject>Chemistry
+
+	<Date>
+		<Type>Examination date
+		<Day>
+		<Month>June
+		<Year>1982
+	</Date>
+
+	<Examining_Body>
+
+	<Grade>B
+
+	<Educated_By>International School of Lusaka
+
+</Qualification>
+
+<Qualification>Biology O level
+	<Examination_Level>
+		<Name>General Certificate of Education, Ordinary level
+		<Abbreviation>GCE O level
+	</Examination_Level>
+
+	<Examination_Subject>Biology
+
+	<Date>
+		<Type>Examination date
+		<Day>
+		<Month>June
+		<Year>1982
+	</Date>
+
+	<Examining_Body>
+
+	<Grade>C
+
+	<Educated_By>International School of Lusaka
+
+</Qualification>
+
+<Qualification>French O level
+	<Examination_Level>
+		<Name>General Certificate of Education, Ordinary level
+		<Abbreviation>GCE O level
+	</Examination_Level>
+
+	<Examination_Subject>French
+
+	<Date>
+		<Type>Examination date
+		<Day>
+		<Month>June
+		<Year>1982
+	</Date>
+
+	<Examining_Body>
+
+	<Grade>E
+
+	<Educated_By>International School of Lusaka
+
+</Qualification>
+
+<Qualification>Geography O level
+	<Examination_Level>
+		<Name>General Certificate of Education, Ordinary level
+		<Abbreviation>GCE O level
+	</Examination_Level>
+
+	<Examination_Subject>Geography
+
+	<Date>
+		<Type>Examination date
+		<Day>
+		<Month>June
+		<Year>1982
+	</Date>
+
+	<Examining_Body>
+
+	<Grade>D
+
+	<Educated_By>International School of Lusaka
+
+</Qualification>
+
+<Qualification>English Language O level
+	<Examination_Level>
+		<Name>General Certificate of Education, Ordinary level
+		<Abbreviation>GCE O level
+	</Examination_Level>
+
+	<Examination_Subject>English Language
+
+	<Date>
+		<Type>Examination date
+		<Day>
+		<Month>November
+		<Year>1981
+	</Date>
+
+	<Examining_Body>
+
+	<Grade>A
+
+	<Educated_By>International School of Lusaka
+
+</Qualification>
+
+<Qualification>Mathematics O level
+	<Examination_Level>
+		<Name>General Certificate of Education, Ordinary level
+		<Abbreviation>GCE O level
+	</Examination_Level>
+
+	<Examination_Subject>Mathematics
+
+	<Date>
+		<Type>Examination date
+		<Day>
+		<Month>November
+		<Year>1981
+	</Date>
+
+	<Examining_Body>
+
+	<Grade>B
+
+	<Educated_By>International School of Lusaka
+
+</Qualification>
+
+<Qualification>Scholastic Aptitude Test
+	<Examination_Level>
+		<Name>Scholastic Aptitude Test
+		<Abbreviation>SAT
+	</Examination_Level>
+
+	<Date>
+		<Type>Examination date
+		<Day>
+		<Month>
+		<Year>
+	</Date>
+
+	<Examining_Body>College Board
+
+	<Grade>
+
+	<Educated_By>International School of Lusaka
+
+</Qualification>
+
+<Qualification>Preliminary Scholastic Aptitude Test
+	<Examination_Level>
+		<Name>Preliminary Scholastic Aptitude Test
+		<Abbreviation>PSAT
+	</Examination_Level>
+
+	<Date>
+		<Type>Examination date
+		<Day>
+		<Month>
+		<Year>
+	</Date>
+
+	<Examining_Body>College Board
+
+	<Grade>
+
+	<Educated_By>International School of Lusaka
+
+</Qualification>

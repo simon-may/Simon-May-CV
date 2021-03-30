@@ -1,0 +1,175 @@
+﻿<Employment>Kenrick and Jefferson
+
+	<Date>
+
+		<Type>Start date
+		<Day>
+		<Month>October
+		<Year>1995
+
+	</Date>
+
+	<Date>
+
+		<Type>End date
+		<Day>
+		<Month>October
+		<Year>1995
+
+	</Date>
+
+	<Site>West Bromwich
+
+	<Role>Software Engineer
+
+	<Summary>
+
+		<001>
+			<P>
+			</P>
+		</001>
+
+		<002>
+			<P>At Kenrick and Jefferson I worked as part of a small team designing and implementing a document processing system using a Document Sciences product called CompuSet.
+			</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</002>
+
+	</Summary>
+
+	<Benefit>Technical Responsibility
+
+		<P>Analysis and design of bill printing system.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Supervisory Responsibility
+
+		<P>In the absence of the project manager, I took on the responsibilities of the project manager, in reporting to the client on progress.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Personal Achievements
+
+		<P>Once again, very rapidly, getting involved in - and pulling together - a team, at short notice and to good effect.
+		</P>
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Skills Acquired
+
+		<P>Whilst at Kenrick and Jefferson, I gained skills in the use of the CompuSet product set, as well as further project management and leadership skills.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Detailed_Description>
+
+		<001>
+
+			<P>Kenrick and Jefferson are a company specialising in secure printing (MOT certificates, etc).
+			</P>
+
+			<P>I was part of a team of five contractors brought in to produce a bill printing system for a large utility company. The project used a specialist document composition software product, called CompuSet.
+			</P>
+
+			<P>The coding was all carried out on PCs, but the target platforms were VAX machines, running UNIX.
+			</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</001>
+
+		<002>
+
+			<P>At Kenrick and Jefferson I worked as part of a small team designing and implementing a document processing system using a Document Sciences product called CompuSet.
+			</P>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>January
+					<Year>2000
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>February
+					<Year>2000
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</002>
+
+	</Detailed_Description>
+
+</Employment>

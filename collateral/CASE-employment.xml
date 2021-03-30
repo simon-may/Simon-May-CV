@@ -1,0 +1,240 @@
+﻿<Employment>Case Communications
+
+	<Date>
+
+		<Type>Start date
+		<Day>
+		<Month>April
+		<Year>1990
+
+	</Date>
+
+	<Date>
+
+		<Type>End date
+		<Day>
+		<Month>December
+		<Year>1992
+
+	</Date>
+
+	<Site>Croxley Business Park, Watford
+
+	<Role>Software Engineer
+
+	<Summary>
+
+		<001>
+			<P>I worked as a software engineer within Case Communications' wide area network product department.
+			</P>
+
+			<P>I joined Case Communications in April 1990, and during my time with Case Communications they were bought first by Dowty and then by Cray Communications.  Throughout this document, I shall refer to Case Communications as Case.
+			</P>
+
+			<P>Whilst at Case, I had responsibility for development of a frame-relay feeder product, which was successfully exhibited at TMA 1992.
+			</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</001>
+
+	</Summary>
+
+	<Benefit>Technical Responsibility
+
+		<P>At Case my technical responsibilities involved programming as part of a team, taking responsibility for testing of my own programs before submission to wider team effort, as well as ensuring that my code was error free, and did not interfere with any other modules.  This was all in a coding environment of 'C' cross-compiled to assembler, and loaded onto proprietary embedded systems.
+		</P>
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Supervisory Responsibility
+
+		<P>For the last six months of my time at Case, I held team leader responsibilities.
+		</P>
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Personal Achievements
+
+		<P>Whilst at Case, my personal achievements included growth in my confidence as a software engineer, and demonstrating a new product at a major industry exhibition.
+		</P>
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Skills Acquired
+
+		<P>The skills that I acquired at Case, were primarily technical ones, including 'C' and UNIX programming, real-time embedded software design and build, WANs and telecommunications in general, and the use of CASE (Computer Aided Software Engineering) tools, and QA tools.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Detailed_Description>
+
+		<001>
+
+			<P>Case are a UK-based manufacturer of communications equipment.  I joined Case as part of the wide area networking department, primarily on their 'DCX' range of equipment.
+			</P>
+
+			<P>I worked on a variety of projects at Case covering maintaining and enhancing their existing products as well as analysing, designing and implementing new products.
+			</P>
+
+			<P>At Case, I worked on several WAN products, which enhanced my skills in the production of real-time embedded applications. My responsibilities involved analysis and design - using the Yourdon/Ward-Mellor methodology - and coding. The coding was in 'C' for the Motorola 68000 microprocessor. The development environment was a VAX minicomputer running UNIX.  Whilst at Case I attended several courses, amongst which was an advanced 'C' course run by The Instruction Set.
+			</P>
+
+			<P>After promotion, the next project that I worked on at Case, was the production of a frame relay feeder product.  I led the small development team, and was responsible for the analysis, design and associated documentation as well as for a demonstration product which was on show at TMA '92 in Brighton. The product was released successfully and within the allotted time scales.  The coding was all in 'C' for the Motorola 68020 microprocessor, and the development environment was a VAX minicomputer running UNIX. I also had responsibility for specifying, introducing, and running a Novell LAN.
+			</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</001>
+
+		<002>
+
+			<P>At Case, I worked on several WAN products, which enhanced my skills in the production of real-time embedded applications.  My responsibilities involved analysis and design - using the Yourdon/Ward-Mellor methodology - and coding.  The coding was in 'C' for the Motorola 68000 microprocessor.  The development environment was a VAX minicomputer running UNIX.  Whilst at Case I attended several courses, amongst which was an advanced 'C' course run by The Instruction Set.
+			</P>
+
+			<P>The next project that I worked on at Case, was the production of a frame relay feeder product.  I led the small development team, and was responsible for the design and associated documentation as well as for a demonstration product which was on show at TMA '92 in Brighton.  The product was released successfully and within the allotted time scales.  The coding was all in 'C' for the Motorola 68020 microprocessor, and the development environment was a VAX minicomputer running UNIX.  I also had responsibility for specifying, introducing, and running a Novell LAN.
+			</P>
+
+			<Used>Curriculum Vitae
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>January
+					<Year>2000
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>February
+					<Year>2000
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</002>
+
+		<003>
+
+			<P>I worked as a software engineer within Case's wide area network product department.
+			</P>
+
+			<Used>Curriculum Vitae
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>June
+					<Year>2002
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>July
+					<Year>2002
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>September
+					<Year>2003
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>September
+					<Year>2006
+				</Date>
+			</Used>
+
+		</003>
+
+		<004>
+
+			<P>I worked as a software engineer within Case's wide area network product department.
+			</P>
+
+			<P>Whilst at Case, I had responsibility for development of a frame-relay feeder product, which was successfully exhibited at TMA 1992.
+			</P>
+
+			<Used>Curriculum Vitae
+				<Type>Leadership version
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>July
+					<Year>2002
+				</Date>
+			</Used>
+
+		</004>
+
+	</Detailed_Description>
+
+</Employment>

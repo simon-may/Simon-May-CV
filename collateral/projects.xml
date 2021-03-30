@@ -1,0 +1,111 @@
+<Project>
+
+	<Employer>Perot Systems Europe
+
+	<Client>Computer Patent Annuities [CPA]
+
+	<Date>
+		<Type>Start date
+		<Days>
+		<Month>January
+		<Year>2001
+	</Date>
+
+	<Date>
+		<Type>End date
+		<Day>
+		<Month>July
+		<Year>2001
+	</Date>
+
+	<Role>Project Manager
+
+	<Project_Description>Domain name management service
+
+</Project>
+
+<Project>
+
+	<Employer>Perot Systems Europe
+
+	<Client>VIA Networks
+
+	<Date>
+		<Type>Start date
+		<Days>
+		<Month>November
+		<Year>2000
+	</Date>
+
+	<Date>
+		<Type>End date
+		<Day>
+		<Month>January
+		<Year>2001
+	</Date>
+
+	<Role>Business Analyst / IT Consultant
+
+	<Project_Description>Business consolidation
+
+</Project>
+
+<Project>
+
+	<Employer>Perot Systems Europe
+
+	<Client>AXA
+
+	<Date>
+		<Type>Start date
+		<Days>
+		<Month>August
+		<Year>2000
+	</Date>
+
+	<Date>
+		<Type>End date
+		<Day>
+		<Month>November
+		<Year>2000
+	</Date>
+
+	<Role>Business Analyst
+
+	<Project_Description>Web portal design
+
+</Project>
+
+<Project>
+
+	<Employer>Perot Systems Europe
+
+	<Client>KPN Mobiel
+
+	<Date>
+		<Type>Start date
+		<Days>
+		<Month>April
+		<Year>2000
+	</Date>
+
+	<Date>
+		<Type>End date
+		<Day>
+		<Month>July
+		<Year>2000
+	</Date>
+
+	<Role>Project Manager
+
+	<Project_Description>Proof of viability
+
+			<P>The overall programme of work was to implement systems which would provide KPN Mobiel with a much better view of, and a much closer relationship with, its customers.
+			</P>
+
+			<P>I was asked to project manage a 'proof of viability' project to establish for senior KPN Mobiel management that the solution which had been proposed by KPN's internal architecture group, could actually be made to work.
+			</P>
+
+	</Project_Description>
+
+</Project>

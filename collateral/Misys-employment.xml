@@ -1,0 +1,214 @@
+﻿<Employment>Misys Financial Systems
+
+	<Date>
+
+		<Type>Start date
+		<Day>
+		<Month>February
+		<Year>1995
+
+	</Date>
+
+	<Date>
+
+		<Type>End date
+		<Day>
+		<Month>August
+		<Year>1995
+
+	</Date>
+
+	<Site>Worcester, Worcestershire
+
+	<Role>Software Developer
+
+	<Summary>
+
+		<001>
+			<P>Misys Financial Systems are a producer of computer systems for the commercial insurance industry. The project that I worked on at Misys - Libra - was a system to assist insurance brokers in the sale of life assurance.
+			</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</001>
+
+	</Summary>
+
+	<Benefit>Technical Responsibility
+
+		<P>My technical responsibilities whilst at Misys included being part of a small development and maintenance team, making enhancements and corrections to an existing software product, as well as general 'C', UNIX, RDBMS, SCCS, debugging, Yourdon expertise.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Supervisory Responsibility
+
+		<P>I had no supervisory responsibility whilst at Misys.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Personal Achievements
+
+		<P>Timely delivery of all work assigned to me.
+		</P>
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Skills Acquired
+
+		<P>Further building on existing 'C', UNIX, and database (Informix) experience.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Detailed_Description>
+
+		<001>
+
+			<P>I worked at Misys as part of a small team developing and enhancing an existing product for use in the life insurance market.
+			</P>
+
+			<P>I was involved in designing the Libra system using the Yourdon design methodology and implementation of the system on a SCO-UNIX platform running an Informix relational database, using 'C' as the development language. The development environment was both SCO-UNIX and DEC Alpha machines using the OSF version of UNIX.
+			</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</001>
+
+		<002>
+
+			<P>The project that I worked on at Misys – Libra - was a system to assist insurance brokers in the sale of life assurance.  I was involved in designing the Libra system using the Yourdon design methodology and implementation of the system on a SCO-UNIX platform running an Informix relational database, using 'C' as the development language.  The development environment was both SCO-UNIX and DEC Alpha machines using the OSF version of UNIX.
+			</P>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>January
+					<Year>2000
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>February
+					<Year>2000
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</002>
+
+		<003>
+
+			<P>Misys Financial Systems are a producer of computer systems for the commercial insurance industry.  The project that I worked on at Misys - Libra - was a system to assist insurance brokers in the sale of life assurance.
+			</P>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>June
+					<Year>2002
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>July
+					<Year>2002
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>September
+					<Year>2003
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>September
+					<Year>2006
+				</Date>
+			</Used>
+
+		</003>
+
+	</Detailed_Description>
+
+</Employment>

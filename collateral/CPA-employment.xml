@@ -1,0 +1,200 @@
+﻿<Employment>Computer Patent Annuities [CPA]
+
+	<Date>
+
+		<Type>Start date
+		<Day>
+		<Month>January
+		<Year>2001
+
+	</Date>
+
+	<Date>
+
+		<Type>End date
+		<Day>
+		<Month>July
+		<Year>2001
+
+	</Date>
+
+	<Site>St. Helier, Jersey
+	<Site>Cock Lane, London
+
+	<Role>Project Manager
+
+	<Summary>
+
+		<001>
+			<P>On assignment at CPA, Jersey, I project managed the successful delivery of an internet-based, domain name management service to be provided by CPA to it's customers.
+			</P>
+
+			<P>This project involved management of a third party for delivery of the web-based application and management of a Perot team for delivery of integration of the web-based application to CPA's Oracle Financials application.
+			</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</001>
+
+	</Summary>
+
+	<Benefit>Technical Responsibility
+
+		<P>As project manager, I had overall technical responsibility for the delivery of the external customer-facing system, as well as for the interface between that system and CPA's existing internal systems for billing.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Supervisory Responsibility
+
+		<P>As project manager, I had overall supervisory responsibility for this project.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Personal Achievements
+
+		<P>Delivery of a successful system which is now working live, and generating a new revenue stream for an existing business.
+		</P>
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Skills Acquired
+
+		<P>During this piece of work, I built on my existing technical and leadership skills.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Detailed_Description>
+
+		<001>
+
+			<P>CPA Jersey are a company whose main business is the renewals of trademarks and patents for corporate customers around the world.  At the end of 2000 CPA decided to expand their service offering to include the registration, renewal and management of domain names.
+			</P>
+
+			<P>Perot Systems were asked to deliver the systems and manage the delivery of third parties.  Perot Systems asked me to manage the project on behalf of CPA.
+			</P>
+
+			<P>This involved putting together a team of Perot Systems analysts and architects, working with CPA to establish high-level key performance indicators, and managing the third party who actually carried out the development and testing of the customer facing system.
+			</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</001>
+
+		<002>
+
+			<P>On assignment at CPA, Jersey, I project managed the successful delivery of an internet-based, domain name management service to be provided by CPA to it's customers.
+			</P>
+
+			<Used>Curriculum Vitae
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>June
+					<Year>2002
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>July
+					<Year>2002
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>September
+					<Year>2003
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>September
+					<Year>2006
+				</Date>
+			</Used>
+
+		</002>
+
+		<003>
+
+			<P>On assignment at CPA, Jersey, I project managed the successful delivery of an internet-based, domain name management service to be provided by CPA to it's customers.
+			</P>
+
+			<P>This project involved management of a third party for delivery of the web-based application and management of a Perot team for delivery of integration of the web-based application to CPA's Oracle Financials application.
+			</P>
+
+			<Used>Curriculum Vitae
+				<Type>Leadership version
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>July
+					<Year>2002
+				</Date>
+			</Used>
+
+		</003>
+
+	</Detailed_Description>
+
+</Employment>

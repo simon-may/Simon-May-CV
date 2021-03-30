@@ -1,0 +1,244 @@
+<family_members>
+
+<person>Simon
+
+	<sex>male</sex>
+
+	<name>
+		<name>Simon</name>
+		<name>Robert</name>
+
+		<family_name>May</family_name>
+
+	</name>
+
+	<also_known_as>Uncle Simon
+		<by>Saghri, Dominic</by>
+		<by>Saghri, Annie</by>
+	</also_known_as>
+
+</person>
+
+
+<person>Julia
+
+	<sex>female</sex>
+
+	<name>
+
+		<name>Julia</name>
+		<name>Caroline</name>
+
+		<family_name>May
+
+			<date type="effective from">
+				<day>19<day>
+				<month>May<month>
+				<year>1968</year>
+			</date>
+
+			<date type="effective to">
+				<day></day>
+				<month>July</month>
+				<year>1999</year>
+			</date>
+
+		</family_name>
+
+		<family_name>Saghri
+
+			<date type="effective from">
+				<day><day>
+				<month>July<month>
+				<year>1999</year>
+			</date>
+
+			<date type="effective to">
+				<day></day>
+				<month></month>
+				<year></year>
+			</date>
+
+		</family_name>
+
+	</name>
+
+	<also_known_as>mummy
+		<by>Saghri, Dominic</by>
+		<by>Saghri, Annie</by>
+	</also_known_as>
+
+</person>
+
+
+<person>Diane
+
+	<sex>female</sex>
+
+	<name>
+
+		<name>Diane</name>
+		<name>Carol</name>
+
+		<family_name>Wilkins
+
+			<date type="effective from">
+				<day>23<day>
+				<month>February<month>
+				<year>1943</year>
+			</date>
+
+			<date type="effective to">
+				<day></day>
+				<month></month>
+				<year>1964</year>
+			</date>
+
+		<family_name>
+
+		<family_name>May
+
+			<date type="effective from">
+				<day><day>
+				<month><month>
+				<year>1964</year>
+			</date>
+
+			<date type="effective to">
+				<day></day>
+				<month></month>
+				<year>1976</year>
+			</date>
+
+		<family_name>
+
+		<family_name>Bell
+
+			<date type="effective from">
+				<day><day>
+				<month><month>
+				<year>1976</year>
+			</date>
+
+			<date type="effective to">
+				<day></day>
+				<month></month>
+				<year></year>
+			</date>
+
+		</family_name>
+
+	</name>
+
+	<also_known_as>mummy
+		<by>Simon</by>
+		<by>Julia</by>
+	</also_known_as>
+
+	<also_known_as>nana
+		<by>Saghri, Dominic</by>
+		<by>Saghri, Annie</by>
+	</also_known_as>
+
+</person>
+
+
+<person>Robert
+
+	<sex>male</sex>
+
+	<name>
+		<name>Robert</name>
+		<name>Gross</name>
+
+		<family_name>May
+		</family_name>
+
+	</name>
+
+</person>
+
+
+<person>David
+
+	<sex>male</sex>
+
+	<name>David Francis Trevor
+		<family_name>Bell</family_name>
+	</name>
+
+</person>
+
+
+<person>Kath
+
+	<sex>female</sex>
+
+	<name>Annie Kathleen
+		<family_name>Foslett</family_name>
+		<family_name>Wilkins</family_name>
+	</name>
+
+</person>
+
+
+<person>Harold
+
+	<sex>male</sex>
+
+	<name>Harold Edward
+		<family_name>Wilkins</family_name>
+	</name>
+
+</person>
+
+
+<person>Eric
+
+	<sex>male</sex>
+
+	<name>Harold Eric
+		<family_name>Wilkins</family_name>
+	</name>
+
+</person>
+
+
+<person>Mervyn
+
+	<sex>male</sex>
+
+	<name>Mervyn
+		<family_name>Bell</family_name>
+	</name>
+
+</person>
+
+
+<person>Mary
+
+	<sex>female</sex>
+
+	<name>Mary
+		<family_name>xx</family_name>
+		<family_name>Harwood</family_name>
+		<family_name>Bell</family_name>
+	</name>
+
+</person>
+
+
+<person>Sarah
+
+	<sex>female</sex>
+
+	<name>Sarah Louise
+		<family_name>FitzGerald</family_name>
+		<family_name>May</family_name>
+	</name>
+
+</person>
+
+</family_members>
+
+

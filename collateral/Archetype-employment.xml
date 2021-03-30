@@ -1,0 +1,186 @@
+﻿<Employment>Archetype Systems
+
+	<Date>
+
+		<Type>Start date
+		<Day>
+		<Month>May
+		<Year>1994
+
+	</Date>
+
+	<Date>
+
+		<Type>End date
+		<Day>
+		<Month>May
+		<Year>1994
+
+	</Date>
+
+	<Site>Watford, Hertfordshire
+
+	<Role>Software Developer
+
+	<Summary>
+
+		<001>
+			<P>My contract with Archetype Systems was very brief and was to carry out a very specific piece of work.
+			</P>
+		</001>
+
+		<002>
+			<P>Adaptation of an existing forms designer product to use different network access.
+			</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</002>
+
+	</Summary>
+
+	<Benefit>Technical Responsibility
+
+		<P>My technical responsibility at Archetype involved carrying out amendments according to a specification, and ensuring error free operation.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Supervisory Responsibility
+
+		<P>I had no supervisory responsibility whilst at Archetype.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Personal Achievements
+
+		<P>Personally, I achieved delivery to extremely tight time-scales, and demonstration of an ability to get into a project with no 'lead in' time and finish the job successfully.
+		</P>
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Skills Acquired
+
+		<P>Programming of Novell Netware
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Detailed_Description>
+
+		<001>
+
+			<P>At Archetype, I was called in to adapt an existing forms designer product to use Novell NetWare LAN accessing rather than the LAN Manager LAN accessing that it originally used. This brief contract called for immediate interpretation and updating of existing code.
+			</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</001>
+
+		<002>
+
+			<P>At Archetype, I was called in to adapt an existing forms designer product to use Novell NetWare LAN accessing rather than the LAN Manager LAN accessing that it originally used.  This brief contract called for immediate interpretation and updating of existing code.
+			</P>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>May
+					<Year>1998
+				</Date>
+			</Used>
+
+		</002>
+
+		<003>
+
+			<P>I was called in by Archetype Systems to help them adapt an existing forms designer product to use Novell NetWare LAN accessing rather than the LAN Manager LAN accessing that it originally used.
+			</P>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>January
+					<Year>2000
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>February
+					<Year>2000
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</003>
+
+	</Detailed_Description>
+
+</Employment>

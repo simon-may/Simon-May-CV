@@ -1,0 +1,190 @@
+﻿<Employment>Merchants
+
+	<Date>
+
+		<Type>Start date
+		<Day>
+		<Month>April
+		<Year>1998
+
+	</Date>
+
+	<Date>
+
+		<Type>End date
+		<Day>
+		<Month>April
+		<Year>1998
+
+	</Date>
+
+	<Site>Hemel Hempstead
+
+	<Role>Business Analyst
+	<Role>IT Consultant
+
+	<Summary>
+
+		<001>
+			<P>
+			</P>
+		</001>
+
+		<002>
+			<P>I was called in by Merchants, to provide consultancy for a response to an invitation to tender that they were providing for a major participant in the UK electricity sector.  My involvement was leading the IT strand of the Merchants section of the bid, from the point of view of my commercial awareness, industry knowledge, and IT perspective.  My responsibilities covered analysis, architecture and design, costing, and presentation of the solution from a sales perspective.
+			</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</002>
+
+	</Summary>
+
+	<Benefit>Technical Responsibility
+
+		<P>My technical responsibility encompassed the architecture and design of the IT solution for inclusion in the Merchants' element of the response to the Invitation to Tender.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Supervisory Responsibility
+
+		<P>I led the team of two IT consultants on behalf of Merchants.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Personal Achievements
+
+		<P>This was the first time that I had been involved in the bid stage of an IT project, and as such I learnt an awful lot that is not normally visible to IT people who are purely involved on the technical side of a development.  This work also gave me the opportunity to bring together and work with a disparate group of people, to provide a technical proposal.
+		</P>
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Skills Acquired
+
+		<P>This work gave me an insight into the bidding process for a major Invitation to Tender.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Detailed_Description>
+
+		<001>
+
+			<P>Merchants were involved in an Invitation to Tender submitted by PowerGen at the time of PowerGen's take-over of East Midlands' Electricity.  Sema were the main contractor, but they required Merchants for the call centre part of the operation.  I was called in by Merchants to boost their in-house electricity sector knowledge and also to provide Merchants with expertise of client server systems architecture.  This was so that Merchants' systems would be able to talk to those of Sema.
+			</P>
+
+			<P>The team involved in the proposal were from several different companies, and had never worked together before.  We had a single week to put together a suitable proposal covering everything from design of the IT system, design of the business processes, and design of a suitable call centre.  This was a mammoth task.
+			</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</001>
+
+		<002>
+
+			<P>Merchants are a call centre solution and consultancy provider who were called in to provide the call centre solution part of a bid, in response to an Invitation to Tender from within the deregulated utility sector.  The bid was to provide the outsourcing of the entire operation of the business, encompassing call centre operation, billing, and industry registration.  My involvement was leading the IT strand of the Merchants section of the bid, from the point of view of my commercial awareness, industry knowledge, and IT perspective.  My responsibilities covered design, costing, and presentation of the solution from a sales perspective.
+			</P>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>May
+					<Year>1998
+				</Date>
+			</Used>
+
+		</002>
+
+		<003>
+
+			<P>I was called in by Merchants, to provide consultancy for a response to an invitation to tender that they were providing for a major participant in the UK electricity sector.  My involvement was leading the IT strand of the Merchants section of the bid, from the point of view of my commercial awareness, industry knowledge, and IT perspective.  My responsibilities covered design, costing, and presentation of the solution from a sales perspective.
+			</P>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>January
+					<Year>2000
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>February
+					<Year>2000
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</003>
+
+	</Detailed_Description>
+
+</Employment>

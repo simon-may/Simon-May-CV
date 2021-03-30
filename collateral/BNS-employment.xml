@@ -1,0 +1,249 @@
+﻿<Employment>Barclays Network Services
+
+	<Date>
+
+		<Type>Start date
+		<Day>
+		<Month>February
+		<Year>1993
+
+	</Date>
+
+	<Date>
+
+		<Type>End date
+		<Day>
+		<Month>February
+		<Year>1994
+
+	</Date>
+
+	<Date>
+
+		<Type>Start date
+		<Day>
+		<Month>June
+		<Year>1994
+
+	</Date>
+
+	<Date>
+
+		<Type>End date
+		<Day>
+		<Month>September
+		<Year>1994
+
+	</Date>
+
+	<Site>Radbroke Hall, Knutsford
+
+	<Role>Software designer
+
+	<Summary>
+
+		<001>
+			<P>I had two periods of contracting with Barclays Network Services; firstly for just over a year, then, after a gap of four months, for a further three month period.
+			</P>
+		</001>
+
+		<002>
+			<P>The project that I worked on at Barclays was a distributed processing, UNIX platform management tool.  The system was designed to run on IBM RS6000 series machines running AIX (UNIX).  My role was primarily as a designer using Yourdon/Ward-Mellor design methodology, and Teamwork and McCabe CASE design tools.  I was also involved at the coding level, using 'C' as the development language.  The majority of the design was carried out on HP Apollo workstations running HP-UX (UNIX).
+			</P>
+
+			<P>My second period of work at Barclays involved work on a continuation of the project which I had previously worked on at Barclays.  I was involved in the production of system test detailed test case specification, I also provided live support to Bank branches which were using the system as installed, and I was responsible for the production and documentation of a generic test harness suite.
+			</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</002>
+
+	</Summary>
+
+	<Benefit>Technical Responsibility
+
+		<P>My technical responsibility at Barclays included accurate analysis and design using the Yourdon/Ward-Mellor analysis and design methodology, analysis, design and implementation of system running on UNIX, and written in 'C', production of specifications for others to work to, some programming as part of a team, responsibility for testing of my own programs before submission to wider team effort, and ensuring error free code which did not interfere with any other modules.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Supervisory Responsibility
+
+		<P>I had no supervisory responsibility whilst at Barclays.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Personal Achievements
+
+		<P>On a personal level, I achieved my first freelance IT contract, as well as having the contract renewed, and also the ability to make significant contribution to large team effort.
+		</P>
+
+		<P>During the first period of time that I worked with Barclays, my contract was renewed several times; this was a personal achievement.    Returning to Barclays after a gap, for a further contract was another personal achievement.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Skills Acquired
+
+		<P>Skills that I acquired whilst working at Barclays included the ability to work as a freelance IT contractor, and a furthering of my Yourdon expertise.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Detailed_Description>
+
+		<001>
+
+			<P>Barclays Network Services is a wholly owned subsidiary of Barclays Bank, and provides applications infrastructure to the network of Barclays Bank branches around the UK.
+			</P>
+
+			<P>My time at Barclays Network Services was my first contract.  I was bought in as part of a team of software designers for my Yourdon design skills.
+			</P>
+
+			<P>The project that I worked on was to enable Barclays to update the applications architecture of their branch network of IBM RS/6000s in a co-ordinated and centrally controlled manner.
+			</P>
+
+			<P>During my second period of time with Barclays, I worked on a continuation of the project that I had previously worked on.
+			</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</001>
+
+		<002>
+
+			<P>The project that I worked on at Barclays was a distributed processing, UNIX platform management tool.  The system was designed to run on IBM RS6000 series machines running AIX (UNIX).  My role was primarily as a designer using Yourdon/Ward-Mellor design methodology, and Teamwork and McCabe CASE design tools.  I was also involved at the coding level, using 'C' as the development language.  The majority of the design was carried out on HP Apollo workstations running HP-UX (UNIX).
+			</P>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>June
+					<Year>2002
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>July
+					<Year>2002
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>September
+					<Year>2003
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>September
+					<Year>2006
+				</Date>
+			</Used>
+
+		</002>
+
+		<003>
+
+			<P>Barclay's was my first contract and I worked for BNS for two separate periods of time, with both periods being on the same overall programme of work.
+			</P>
+
+			<P>The overall programme was a distributed processing, UNIX platform management tool.  The system was designed to run on IBM RS6000 series machines running AIX (UNIX).
+			</P>
+
+			<P>My role was a designer using Yourdon/Ward-Mellor design methodology, and Teamwork and McCabe CASE design tools.  I was also involved at the coding level, using 'C' as the development language.  The majority of the design was carried out on HP Apollo workstations running HP-UX (UNIX).
+			</P>
+
+			<P>On my return to BNS, I was involved in the system test of the system, and in providing support during the roll-out phase.
+			</P>
+
+			<Used>Curriculum Vitae
+				<Type>Leadership version
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>July
+					<Year>2002
+				</Date>
+			</Used>
+
+		</003>
+
+	</Detailed_Description>
+
+</Employment>

@@ -1,0 +1,180 @@
+﻿<Employment>AXA
+
+	<Date>
+
+		<Type>Start date
+		<Day>
+		<Month>August
+		<Year>2000
+
+	</Date>
+
+	<Date>
+
+		<Type>End date
+		<Day>
+		<Month>November
+		<Year>2000
+
+	</Date>
+
+	<Site>London
+	<Site>Bristol
+	<Site>Paris
+
+	<Role>Business Analyst
+
+	<Summary>
+
+		<001>
+			<P>This was a peculiar role.  I was asked by Perot to undertake some business analysis work in conjunction with some other Perot employees.  We were working under the direction of a French consultancy company, for the client, AXA Sun Life.  The structure of AXA Sun Life – head office in France, but with strong local autonomy – meant that the engagement was crippled by political manoeuvrings from the start.
+			</P>
+		</001>
+
+		<002>
+			<P>On assignment with AXA, I worked as a business analyst within a small Perot Systems team in partnership with a French consultancy company.
+			</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</002>
+
+	</Summary>
+
+	<Benefit>Technical Responsibility
+
+		<P>My technical responsibility within this assignment was limited to analysis of business requirements.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Supervisory Responsibility
+
+		<P>I had no supervisory responsibilities during this assignment.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Personal Achievements
+
+		<P>My achievements on a personal level during this assignment included working with a multi-national team covering many different companies, and successfully delivering business requirements within this complex mix of people and teams.
+		</P>
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Skills Acquired
+
+		<P>This assignment built on my existing communications skills, and business analysis skills.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Detailed_Description>
+
+		<001>
+
+			<P>AXA are one of the world's largest insurance companies, and within Europe wanted to introduce a Europe-wide web based financial portal offering customer's the ability to manage all aspects of their finances on-line; from a simple bank account, through to share purchase.
+			</P>
+
+			<P>The bulk of the work was being undertaken by Perot System's French partner company, and Perot Systems were asked to provide a team to be based within the UK to work with AXA Sun-Life in Bristol, to derive UK specific requirements for the portal.  I was a business analyst within the team.
+			</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</001>
+
+		<002>
+
+			<P>On assignment with AXA, I worked as a business analyst within a small Perot Systems team in partnership with a French consultancy company.
+			</P>
+
+			<Used>Curriculum Vitae
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>June
+					<Year>2002
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>July
+					<Year>2002
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>September
+					<Year>2003
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>September
+					<Year>2006
+				</Date>
+			</Used>
+
+		</002>
+
+	</Detailed_Description>
+
+</Employment>

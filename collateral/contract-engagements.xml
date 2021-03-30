@@ -1,0 +1,623 @@
+<engagement>APD Communications
+
+	<site>Newlands Centre, Inglemire Lane, Hull</site>
+
+	<contract>
+
+		<agency>Modis</agency>
+
+		<rate>£ 35 per hour</rate>
+
+		<date type="Start">
+			<Day>2
+			<Month>July
+			<year>2007</year>
+		</date>
+
+		<date type="End">
+			<Day>28
+			<Month>September
+			<Year>2007
+		</date>
+
+	</contract>
+
+	<Contract>
+		<Agency>Modis
+
+		<Rate>£ 35 per hour
+
+		<Date>
+			<Type>Start date
+			<Day>1
+			<Month>October
+			<Year>2007
+		</Date>
+
+		<Date>
+			<Type>End Date
+			<Day>28
+			<Month>December
+			<Year>2007
+		</Date>
+
+	</Contract>
+
+	<Contract>
+		<Agency>Modis
+
+		<Rate>£ 35 per hour
+
+		<Date>
+			<Type>Start date
+			<Day>7
+			<Month>January
+			<Year>2008
+		</Date>
+
+		<Date>
+			<Type>End Date
+			<Day>1
+			<Month>February
+			<Year>2008
+		</Date>
+
+	</Contract>
+
+</Engagement>
+
+
+<Engagement>Perot Systems Europe
+
+	<Site>Oakwood Court, Sherwood Park, Nottingham
+
+	<Contract>
+
+		<Agency>Spring IT Personnel
+
+		<Rate>
+
+		<Date>
+			<Type>Start date
+			<Day>20
+			<Month>January
+			<Year>2000
+		</Date>
+
+		<Date>
+			<Type>End Date
+			<Day>28
+			<Month>July
+			<Year>2000
+		</Date>
+
+	</Contract>
+
+	<Contract>
+
+		<Agency>Spring IT Personnel
+
+		<Rate>
+
+		<Date>
+			<Type>Start date
+			<Day>10
+			<Month>May
+			<Year>1999
+		</Date>
+
+		<Date>
+			<Type>End Date
+			<Day>5
+			<Month>November
+			<Year>1999
+		</Date>
+
+	</Contract>
+
+	<Contract>
+
+		<Agency>Spring IT Personnel
+
+		<Rate>
+
+		<Date>
+			<Type>Start date
+			<Day>9
+			<Month>November
+			<Year>1998
+		</Date>
+
+		<Date>
+			<Type>End Date
+			<Day>7
+			<Month>May
+			<Year>1999
+		</Date>
+
+	</Contract>
+
+	<Contract>
+
+		<Agency>Spring IT Personnel
+
+		<Rate>
+
+		<Date>
+			<Type>Start date
+			<Day>11
+			<Month>May
+			<Year>1998
+		</Date>
+
+		<Date>
+			<Type>End Date
+			<Day>6
+			<Month>November
+			<Year>1998
+		</Date>
+
+	</Contract>
+
+</Engagement>
+
+<Engagement>Merchants
+
+	<Site>Midsummer Boulevard, Milton Keynes
+
+	<Contract>
+
+		<Agency>
+
+		<Rate>
+
+		<Date>
+			<Type>Start date
+			<Day>6
+			<Month>April
+			<Year>1998
+		</Date>
+
+		<Date>
+			<Type>End Date
+			<Day>10
+			<Month>April
+			<Year>1998
+		</Date>
+
+	</Contract>
+
+	<Comments>"1 week working on a bid with Sema"
+
+</Engagement>
+
+<Engagement>PowerGen
+
+	<Site>Westwood Business Park, Coventry
+
+	<Contract>
+
+		<Agency>MSB International
+
+		<Rate>
+
+		<Date>
+			<Type>Start date
+			<Day>29
+			<Month>September
+			<Year>1997
+		</Date>
+
+		<Date>
+			<Type>End Date
+			<Day>27
+			<Month>March
+			<Year>1998
+		</Date>
+
+	</Contract>
+
+	<Contract>
+
+		<Agency>MSB International
+
+		<Rate>
+
+		<Date>
+			<Type>Start date
+			<Day>1
+			<Month>April
+			<Year>1997
+		</Date>
+
+		<Date>
+			<Type>End Date
+			<Day>27
+			<Month>March
+			<Year>1998
+		</Date>
+
+	</Contract>
+
+	<Contract>
+
+		<Agency>MSB International
+
+		<Rate>
+
+		<Date>
+			<Type>Start date
+			<Day>16
+			<Month>September
+			<Year>1996
+		</Date>
+
+		<Date>
+			<Type>End Date
+			<Day>28
+			<Month>March
+			<Year>1997
+		</Date>
+
+	</Contract>
+
+	<Contract>
+
+		<Agency>MSB International
+
+		<Rate>
+
+		<Date>
+			<Type>Start date
+			<Day>28
+			<Month>March
+			<Year>1996
+		</Date>
+
+		<Date>
+			<Type>End Date
+			<Day>28
+			<Month>March
+			<Year>1997
+		</Date>
+
+	</Contract>
+
+	<Contract>
+
+		<Agency>MSB International
+
+		<Rate>
+
+		<Date>
+			<Type>Start date
+			<Day>1
+			<Month>February
+			<Year>1996
+		</Date>
+
+		<Date>
+			<Type>End Date
+			<Day>29
+			<Month>March
+			<Year>1996
+		</Date>
+
+	</Contract>
+
+	<Contract>
+
+		<Agency>MSB International
+
+		<Rate>
+
+		<Date>
+			<Type>Start date
+			<Day>30
+			<Month>October
+			<Year>1995
+		</Date>
+
+		<Date>
+			<Type>End Date
+			<Day>31
+			<Month>January
+			<Year>1996
+		</Date>
+
+	</Contract>
+
+	<Comments>
+
+</Engagement>
+
+<Engagement>Kenrick and Jefferson
+
+	<Site>West Bromwich
+
+	<Contract>
+
+		<Agency>Comtex Solutions
+
+		<Rate>
+
+		<Date>
+			<Type>Start date
+			<Day>16
+			<Month>October
+			<Year>1995
+		</Date>
+
+		<Date>
+			<Type>End Date
+			<Day>24
+			<Month>November
+			<Year>1995
+		</Date>
+
+	</Contract>
+
+	<Comments>
+
+</Engagement>
+
+<Engagement>British Gas
+
+	<Site>Solihul
+
+	<Contract>
+
+		<Agency>Arena Resources
+
+		<Rate>
+
+		<Date>
+			<Type>Start date
+			<Day>14
+			<Month>August
+			<Year>1995
+		</Date>
+
+		<Date>
+			<Type>End Date
+			<Day>20
+			<Month>August
+			<Year>1995
+		</Date>
+
+	</Contract>
+
+	<Comments>"This contract was through Computacentre to hand-hold a unix box installation."
+
+</Engagement>
+
+<Engagement>Misys Financial Systems
+
+	<Site>Warndon, Worcester
+
+	<Contract>
+
+		<Agency>Modus International
+
+		<Rate>
+
+		<Date>
+			<Type>Start date
+			<Day>13
+			<Month>February
+			<Year>1995
+		</Date>
+
+		<Date>
+			<Type>End Date
+			<Day>11
+			<Month>August
+			<Year>1995
+		</Date>
+
+	</Contract>
+
+	<Comments>
+
+</Engagement>
+
+<Engagement>AAH Meditel
+
+	<Site>Rigby Lane, Bromsgrove
+
+	<Contract>
+
+		<Agency>System Resources
+
+		<Rate>
+
+		<Date>
+			<Type>Start date
+			<Day>12
+			<Month>September
+			<Year>1994
+		</Date>
+
+		<Date>
+			<Type>End Date
+			<Day>10
+			<Month>February
+			<Year>1995
+		</Date>
+
+	</Contract>
+
+	<Comments>
+
+</Engagement>
+
+<Engagement>Archetype Systems Limited
+
+	<Site>Watford
+
+	<Contract>
+
+		<Agency>Modus International
+
+		<Rate>
+
+		<Date>
+			<Type>Start date
+			<Day>9
+			<Month>May
+			<Year>1994
+		</Date>
+
+		<Date>
+			<Type>End Date
+			<Day>11
+			<Month>May
+			<Year>1994
+		</Date>
+
+	</Contract>
+
+	<Comments>"Contract for three days !"
+
+</Engagement>
+
+
+<Engagement>Barclays Network Services
+
+	<Site>Stocks Lane, Knutsford
+
+	<Contract>
+
+		<Agency>Real-Time Systems
+
+		<Rate>
+
+		<Date>
+			<Type>Start date
+			<Day>20
+			<Month>June
+			<Year>1994
+		</Date>
+
+		<Date>
+			<Type>End Date
+			<Day>9
+			<Month>September
+			<Year>1994
+		</Date>
+
+	</Contract>
+
+	<Contract>
+
+		<Agency>Real-Time Systems
+
+		<Rate>
+
+		<Date>
+			<Type>Start date
+			<Day>31
+			<Month>January
+			<Year>1994
+		</Date>
+
+		<Date>
+			<Type>End Date
+			<Day>18
+			<Month>February
+			<Year>1994
+		</Date>
+
+	</Contract>
+
+	<Contract>
+
+		<Agency>Real-Time Systems
+
+		<Rate>
+
+		<Date>
+			<Type>Start date
+			<Day>1
+			<Month>November
+			<Year>1993
+		</Date>
+
+		<Date>
+			<Type>End Date
+			<Day>28
+			<Month>January
+			<Year>1994
+		</Date>
+
+	</Contract>
+
+	<Contract>
+
+		<Agency>Real-Time Systems
+
+		<Rate>
+
+		<Date>
+			<Type>Start date
+			<Day>1
+			<Month>November
+			<Year>1993
+		</Date>
+
+		<Date>
+			<Type>End Date
+			<Day>29
+			<Month>April
+			<Year>1994
+		</Date>
+
+	</Contract>
+
+	<Contract>
+
+		<Agency>Real-Time Systems
+
+		<Rate>
+
+		<Date>
+			<Type>Start date
+			<Day>1
+			<Month>April
+			<Year>1993
+		</Date>
+
+		<Date>
+			<Type>End Date
+			<Day>18
+			<Month>February
+			<Year>1994
+		</Date>
+
+	</Contract>
+
+	<Contract>
+
+		<Agency>Real-Time Systems
+
+		<Rate>22.25 per hour
+
+		<Date>
+			<Type>Start date
+			<Day>22
+			<Month>February
+			<Year>1993
+		</Date>
+
+		<Date>
+			<Type>End Date
+			<Day>18
+			<Month>February
+			<Year>1994
+		</Date>
+
+	</Contract>
+
+	<Comments>"My first contract engagement - split over two time periods."
+
+</Engagement>

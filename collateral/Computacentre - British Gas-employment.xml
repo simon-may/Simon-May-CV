@@ -1,0 +1,169 @@
+﻿<Employment>British Gas [Computacenter]
+
+	<Date>
+
+		<Type>Start date
+		<Day>
+		<Month>August
+		<Year>1995
+
+	</Date>
+
+	<Date>
+
+		<Type>End date
+		<Day>
+		<Month>August
+		<Year>1995
+
+	</Date>
+
+	<Site>Solihul, West Midlands
+
+	<Role>Systems Administrator
+
+	<Summary>
+
+		<001>
+			<P>This contract was a very brief contract to oversee the installation of a UNIX machine at a British Gas site.
+			</P>
+		</001>
+
+		<002>
+			<P>At British Gas TransCo I provided consultancy on the installation and configuration of a SCO-UNIX system.
+			</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</002>
+
+	</Summary>
+
+	<Benefit>Technical Responsibility
+
+		<P>Installation of a SCO-UNIX system.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Supervisory Responsibility
+
+		<P>I had no supervisory responsibility whilst at British Gas.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Personal Achievements
+
+		<P>Ability to adapt rapidly to a new environment.
+		</P>
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Skills Acquired
+
+		<P>Installation and configuration of a UNIX system.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Detailed_Description>
+
+		<001>
+
+			<P>I was sub-contracted by Computacenter to British Gas to install a SCO-UNIX system. This was not a job that I had done before, but I was able to achieve the installation on time, and successfully.
+			</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</001>
+
+		<002>
+
+			<P>At British Gas TransCo I provided consultancy on the installation and configuration of a SCO-UNIX system.
+			</P>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>January
+					<Year>2000
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>February
+					<Year>2000
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</002>
+
+	</Detailed_Description>
+
+</Employment>

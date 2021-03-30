@@ -1,0 +1,204 @@
+﻿<Employment>VIA Networks
+
+	<Date>
+
+		<Type>Start date
+		<Day>
+		<Month>November
+		<Year>2000
+
+	</Date>
+
+	<Date>
+
+		<Type>End date
+		<Day>
+		<Month>January
+		<Year>2001
+
+	</Date>
+
+	<Site>Warrington, UK
+	<Site>Paris, France
+	<Site>Seville, Spain
+	<Site>Germany
+	<Site>Reston, Virginia, USA
+
+	<Role>Business Analyst; IT Consultant
+
+	<Summary>
+
+		<001>
+			<P>This was a very exciting role which involved lots of travel within the UK, within Europe (Spain, France, and Germany), and in the United States (Reston, Virginia).
+			</P>
+
+			<P>VIA Networks went through a period of rapid growth by acquiring existing ISPs and merging them into the VIA Networks business.  VIA Networks were experiencing some pain carrying out the consolidation, an asked Perot Systems to provide business and technical consultancy on how best to achieve the consolidation.
+			</P>
+
+			<P>I carried out this assignment with one other American Perot employee for the duration of the three month assignment.
+			</P>
+
+			<P>This assignment was reporting to senior VIA Networks executives.
+			</P>
+
+		</001>
+
+		<002>
+			<P>On assignment with VIA NET.WORKS, I worked with one other Perot Systems business analyst to deliver consultancy to VIA NET.WORKS to allow VIA to consolidate acquired businesses.
+			</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</002>
+
+	</Summary>
+
+	<Benefit>Technical Responsibility
+
+		<P>My technical responsibility during this assignment encompassed analysis of the existing architecture, recommendation of the architecture to be migrated to, and production of the migration road-map.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Supervisory Responsibility
+
+		<P>There were only two people involved on this assignment and the supervisory responsibility was shared between us.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Personal Achievements
+
+		<P>The first area of personal achievement on this assignment was being selected in the first place for the highly prestigious and visible work.
+		</P>
+
+		<P>This assignment presented me with many opportunities for personal achievement which I seized.  The time-scales were tight, the geographic spread of the operating units presented many challenges in terms of travel, and the level of management who had commissioned the consultancy work presented it's own challenges.  Despite all the challenges involved, the work was successfully received by VIA NET.WORKS, and much kudos was gained throughout Perot Systems.
+		</P>
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Skills Acquired
+
+		<P>The skills that I acquired during this piece of work included communication skills, adaptability, and cultural awareness skills.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Detailed_Description>
+
+		<001>
+
+			<P>VIA NET.WORKS are an American-based internet service provider (ISP) who have grown throughout the world by acquisition of local ISPs.  At the stage of their growth that Perot Systems became involved with them, VIA NET.WORKS were looking to consolidate all the individual ISPs into the VIA NET.WORKS corporation so that all the individual units were using the same systems for billing and provisioning (providing the service to customers).
+			</P>
+
+			<P>Perot Systems were asked to audit the existing - overrunning - programme and provide a 'road-map' showing how to deliver the programme into all the individual operating units on time, and in such a way that the delivered systems would be culturally acceptable.  I was one of the two Perot Systems employees who were asked to participate in this consultancy challenge.
+			</P>
+
+			<P>The consultancy consisted initially of visiting all of the European based operating units to establish the current picture in terms of systems already in place, and understanding and acceptance of the programme which was already running within VIA NET.WORKS.
+			</P>
+
+			<P>The deliverables from this consultancy work were advice and recommendations to get the programme back on track with an architecture which would work, and in such a way that the eventual systems would be acceptable to all the stakeholders in the programme.
+			</P>
+
+			<P>The deliverables were presented to the board of VIA NET.WORKS in their American base, and as a result of the deliverables, major changes were made to the programme, and Perot Systems were asked to become involved in the programme management.
+			</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</001>
+
+		<002>
+
+			<P>On assignment with VIA NET.WORKS, I worked with one other Perot Systems business analyst to deliver consultancy to VIA NET.WORKS to allow VIA to consolidate acquired businesses.
+			</P>
+
+			<Used>Curriculum Vitae
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>June
+					<Year>2002
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>July
+					<Year>2002
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>September
+					<Year>2003
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>September
+					<Year>2006
+				</Date>
+			</Used>
+
+		</002>
+
+	</Detailed_Description>
+
+</Employment>

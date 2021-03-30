@@ -1,0 +1,348 @@
+﻿<Employment>Perot Systems Europe
+
+	<Engagement>001
+		<Date>
+
+			<Type>Start date
+			<Day>
+			<Month>May
+			<Year>1998
+
+		</Date>
+
+		<Date>
+
+			<Type>End date
+			<Day>
+			<Month>November
+			<Year>1999
+
+		</Date>
+
+		<Site>Coppice Road, Arnold, Nottingham
+
+	</Engagement>001
+
+	<Engagement>002
+
+		<Date>
+
+			<Type>Start date
+			<Day>
+			<Month>January
+			<Year>2000
+
+		</Date>
+
+		<Date>
+
+			<Type>End date
+			<Day>
+			<Month>April
+			<Year>2000
+
+		</Date>
+
+		<Site>Oakwood Court, Nottingham
+
+		<Site>Client sites around UK and Europe
+
+	</Engagement>002
+
+	<Role>
+
+	<Summary>
+
+		<001>
+			<P>My involvement with Perot Systems began in May 1998 and I stayed as a contractor for 18 months.  After a two month break, I returned for a six month contract, but during that time I transferred to being a permanent employee (in April 2000) and I stayed with Perot as a permanent employee for a further 18 months, until December, 2001.
+			</P>
+		</001>
+
+		<002>
+			<P>My first involvement with Perot Systems was working on several projects, all for Perot's main customer in the UK (at the time), East Midland's Electricity (EME) - subsequently PowerGen.
+			</P>
+
+			<P>I had some involvement in EME's year 2000 programme, but my main work with Perot Systems at EME was on EME's 1998 UK electricity industry deregulation project.
+			</P>
+
+			<P>I was asked to return to Perot Systems in January 2000, in a pre-sales capacity to work with them on putting together proposals for clients.
+			</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</002>
+
+	</Summary>
+
+	<Benefit>Technical Responsibility
+
+		<P>Whilst at Perot Systems, I had several areas of technical responsibility including project management, analysis and design of databases, planning and Management information reporting, as well as business analysis liaison with end users.
+		</P>
+
+		<P>Whilst providing pre-sales support to Perot Systems, my technical responsibility expanded to include, systems architecture, as well as general industry experience.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Supervisory Responsibility
+
+		<P>During my time at Perot Systems, I had several roles of supervisory responsibility including project management of Year 2000 System Test, for three months, management of 'Planning and Reporting' team, for four months, and management of inventory database development team.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Personal Achievements
+
+		<P>My time at Perot Systems gave me many opportunities for personal achievement, including successful trialing of EME's new (deregulation) systems to allow participation in the UK electricity market, management of Year 2000 system test, and management of off-shore system test execution teams.
+		</P>
+
+		<P>In addition to the above, working on pre-sales work reinforced several areas of personal achievement : ability to gain a rapid understanding of complex businesses at several levels of the business; ability to work abroad in an environment and culture very different to that which I had been used to.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Benefit>Skills Acquired
+
+		<P>Skills that I acquired whilst at Perot Systems included furthering of project management skills, an introduction to the MVS operating system, use of Microsoft Access database, and capitalisation of my business analysis skills, and database design skills.  I also furthered my experience in pre-sales work.
+		</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+	</Benefit>
+
+	<Detailed_Description>
+
+		<001>
+
+			<P>At Perot I was involved in several projects :
+			</P>
+
+			<P>Year 2000 Applications Inventory Database
+			</P>
+
+			<P>As a very large company which has been in existence for many years, EME had - and continues to have - a very large number of very disparate applications.  In order to verify that all of these applications were Year 2000 compliant, the work involved in cataloguing the applications was massive.  I successfully led the development of a Microsoft Access database application for tracking the inventory of EME's applications.
+			</P>
+
+			<P>UK Electricity Industry, 1998 Deregulation Industry Trialing
+			</P>
+
+			<P>In July 1998, I started to work as part of the management team for EME's industry trialling effort.  This was a very successful effort which meant that EME joined the competitive market two months ahead of schedule against some very tight time scales.  This role carried on into making sure that the newly developed systems went live successfully.
+			</P>
+
+			<P>Support for the cut-over to live running on the new systems
+			</P>
+
+			<P>Once EME's systems had passed the industry trialing, the systems had to be made live.  During this period of time, I worked as part of the support team managing the successful go-live period.
+			</P>
+
+			<P>Year 2000 System Test
+			</P>
+
+			<P>My next role was to lead a team of fifty people who were executing systems tests as part of EME's Year 2000 programme.  The fifty people were split into five teams based in four different locations - two in Nottingham, two in America, and one in India.  This challenging role has been very successful and has had widespread recognition throughout Perot Systems.
+			</P>
+
+			<P>In my second period of time with Perot Systems as a contractor (starting in January 2000), I worked on several pre-sales proposals including :
+			</P>
+
+			<P>Electricity Industry proposal
+			</P>
+
+			<P>This involved putting together a proposal for a major UK electricity supplier, for the development and eventual outsourcing of their IT systems.
+			</P>
+
+			<P>Hospitality industry proposal
+			</P>
+
+			<P>This involved putting together a proposal for the development and implementation of customer relationship management business systems and practices.
+			</P>
+
+			<P>Telecommunications industry proposal
+			</P>
+
+			<P>This proposal was again for customer relationship management business systems and practices, for a major European telecommunications company, which involved me spending time in the Netherlands on-site at the client offices.  This proposal was successful, and led to me working on the eventual project (see the 'KPN Mobiel' assignment above).
+			</P>
+
+			<Used>BCS application
+				<Date>
+					<Type>Application date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</001>
+
+		<002>
+
+			<P>Jan 2000 to April 2000	Perot Systems Europe	Consultant
+			</P>
+
+			<P>I was asked to return to Perot to help with a wide variety of pre-sales work.  This included work on a bid for a UK energy utility, a Dutch telecommunications company, and a UK based world-wide hospitality chain, amongst others.  All of these bids were for multi-million pound deals.
+			</P>
+
+			<P>Within this role, I provided costing estimates covering capital costs as well as resource costs.
+			</P>
+
+			<P>May 1998 to Jun 1999	Perot Systems Europe	Consultant
+Contract
+			</P>
+
+			<P>At Perot Systems, I worked on several projects, all for Perot's main customer in the UK at the time, East Midland's Electricity (EME).  I was initially involved in EME's Year 2000 project, and successfully led the development of a Microsoft Access database application for tracking an inventory of EME’s applications.
+			</P>
+
+			<P>In July 1998, I started to work as part of the management team for EME's industry trialling effort.  This was a very successful effort, which meant that EME joined the competitive market two months ahead of schedule against very tight time scales.  This role carried on into making sure that the newly developed systems went live successfully.
+			</P>
+
+			<P>My next role was to lead a team of fifty people - both permanent and contractors - who were executing systems tests as part of EME's Year 2000 programme.  The fifty people were split into five teams based in four different locations - two in Nottingham, two in America, and one in India.  This challenging role was very successful and has had widespread recognition throughout Perot Systems.
+			</P>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>January
+					<Year>2000
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>February
+					<Year>2000
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>April
+					<Year>2000
+				</Date>
+			</Used>
+
+		</002>
+
+		<003>
+
+			<P>During this period of time with Perot Systems, I worked on several projects, all for Perot's main customer in the UK, East Midland's Electricity (EME) - now PowerGen.  I was involved in EME's year 2000 project, and mainly in their UK Electricity Industry Deregulation project.
+			</P>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>June
+					<Year>2002
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>July
+					<Year>2002
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>September
+					<Year>2003
+				</Date>
+			</Used>
+
+			<Used>Curriculum Vitae
+				<Type>
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>September
+					<Year>2006
+				</Date>
+			</Used>
+
+		</003>
+
+		<004>
+
+			<P>I worked for Perot Systems as a contractor an two separate occasions.
+			</P>
+
+			<P>The first time that I worked for Perot, I worked on several projects, all for Perot's main customer in the UK, East Midland's Electricity (EME) - now PowerGen.  I was involved in EME's Year 2000 programme, and in their UK Electricity Industry Deregulation project.
+			</P>
+
+			<P>Whilst working on EME's Year 2000 programme, I took over the project management of the system test effort to bring the project back on track.  This was widely regarded as a major success.
+			</P>
+
+			<P>My second period of contracting with Perot involved work on pre-sales proposals, including the successful proposal for KPN Mobiel, which I later worked on as a project manager.
+			</P>
+
+			<Used>Curriculum Vitae
+				<Type>Leadership version
+				<Date>
+					<Type>CV date
+					<Day>
+					<Month>July
+					<Year>2002
+				</Date>
+			</Used>
+
+		</004>
+
+	</Detailed_Description>
+
+</Employment>
